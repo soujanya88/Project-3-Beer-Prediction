@@ -1,0 +1,1160 @@
+,City,State,brewery_name,Country,Latitude,Longitude
+0,Valparaiso,Indiana,Aberdeen Brewing,United States,41.4392,-87.1078
+1,Whitewater,Wisconsin,Randy's Fun Hunters Brewery Restaurant and Banquet Center,United States,42.832,-88.714
+2,Minnetonka,Minnesota,Sherlock's Home,United States,44.9133,-93.5033
+3,San Francisco,California,Speakeasy Ales and Lagers,United States,37.7387,-122.381
+4,Missoula,Montana,Bayern Brewing,United States,46.8726,-114.02
+5,Berkeley,California,Bison Brewing,United States,37.8634,-122.259
+6,Ithaca,New York,Ithaca Beer Company,United States,42.4145,-76.5315
+7,Amana,Iowa,Millstream Brewing,United States,41.7972,-91.8652
+8,San Antonio,Texas,Pabst Brewing Company,United States,29.43,-98.49
+9,Portsmouth,New Hampshire,Smuttynose Brewing Co.,United States,43.0325,-70.7948
+10,North Vancouver,British Columbia,Taylor's Crossing Brewing,Canada,49.3238,-123.102
+11,Iron River,Wisconsin,White Winter Winery,United States,47.3812,-94.6669
+12,Madison,Wisconsin,Ale Asylum,United States,43.1257,-89.3253
+13,Allentown,Pennsylvania,Allentown Brew Works,United States,40.6016,-75.474
+14,Louisville,Kentucky,Cumberland Brewery,United States,38.2309,-85.7055
+15,Marblehead,Ohio,Frontwaters Restaurant and Brewing,United States,41.5403,-82.7355
+16,Saint John,New Brunswick,Moosehead Breweries,Canada,45.2567,-66.096
+17,Milwaukee,Wisconsin,Stout Brothers Public House,United States,43.0389,-87.9065
+18,Duluth,Minnesota,"Fitger's Brewhouse, Brewery and Grill",United States,46.7926,-92.0909
+19,Alexandria,Virginia,Founder's Restaurant & Brewing,United States,38.8048,-77.0469
+20,Sacramento,California,Hoppy Brewing Company,United States,38.5551,-121.43
+21,Novato,California,Moylan's Brewery & Restaurant,United States,38.0941,-122.557
+22,Boulder,Colorado,Oasis Brewery and Restaurant,United States,40.015,-105.271
+23,Carleton Place,Ontario,Scotch Irish Brewing,Canada,45.1279,-76.13
+24,Centreville,Virginia,Sweetwater Tavern - Centreville,United States,38.8289,-77.4393
+25,San Marcos,California,The Lost Abbey,United States,33.1406,-117.15
+26,Henley-on-Thames,Oxford,WH Brakspear & Sons,United Kingdom,51.5375,-0.9046000000000001
+27,Watertown,Wisconsin,Bellows Brew Crew,United States,43.1947,-88.729
+28,Gaylord,Michigan,Big Buck Brewery,United States,45.0223,-84.6826
+29,Montreal,Quebec,Brasserie McAuslan,Canada,45.4682,-73.5913
+30,Achel,Limburg,Brouwerij De Achelse Kluis,Belgium,51.2986,5.4896
+31,Kobbegem,Vlaams Brabant,Brouwerij De Keersmaeker,Belgium,50.9098,4.2505
+32,New York,New York,Heartland Brewery Union Square,United States,40.7323,-73.9874
+33,Fairfax,California,Iron Springs Pub & Brewery,United States,37.986,-122.584
+34,Loveland,Colorado,Namaqua Brewing,United States,40.3978,-105.075
+35,Fort Wayne,Indiana,Oyster Bar Bistro and Brewery,United States,41.1475,-85.1168
+36,La Crosse,Wisconsin,Pearl Street Brewery,United States,43.8344,-91.2362
+37,Pittsburgh,Pennsylvania,Pennsylvania Brewing,United States,40.4569,-79.9915
+38,Fairfax,California,Ross Valley Brewing,United States,37.9871,-122.589
+39,LaPorte,Indiana,Back Road Brewery,United States,41.6124,-86.7268
+40,Williamsport,Pennsylvania,Bavarian Barbarian Brewing Company,United States,41.238,-77.0103
+41,Ravensburg,Baden-Wrttemberg,Brauerei Leibinger,Germany,47.7818,9.6215
+42,Lembeek,Vlaams Brabant,Brouwerij Boon,Belgium,50.7123,4.2197
+43,Einbeck,Niedersachsen,Einbecker Brauhaus AG,Germany,51.8162,9.8643
+44,Vista,California,Green Flash Brewing,United States,33.136,-117.225
+45,Wallsend,Tyne and Wear,Mordue Brewery,United Kingdom,55.0167,-1.4925000000000002
+46,San Diego,California,On Tap Bistro & Brewery,United States,32.7153,-117.157
+47,Edinburgh,Scotland,Scottish & Newcastle PLC,United Kingdom,55.9465,-3.2485
+48,La Crosse,Wisconsin,Tap Room Brewing Company,United States,43.8014,-91.2396
+49,Healdsburg,California,Bear Republic Brewery,United States,38.6112,-122.871
+50,Merchtem-Peizegem,Vlaams Brabant,Brouwerij De Block,Belgium,50.985,4.2226
+51,Tadcaster,North Yorkshire,Courage Brewery,United Kingdom,53.8846,-1.2652
+52,Fortuna,California,Eel River Brewing,United States,40.5793,-124.153
+53,Seattle,Washington,Elliott Bay Brewery and Pub,United States,47.5604,-122.387
+54,New York Mills,Minnesota,Glacial Lakes Brewing,United States,46.518,-95.3761
+55,Ocean,New Jersey,Heavyweight Brewing,United States,39.9653,-74.3118
+56,Ipswich,Massachusetts,Mercury Brewing Company,United States,42.6728,-70.844
+57,Monroe,Wisconsin,Minhas Craft Brewery,United States,42.6001,-89.6422
+58,Krebs,Oklahoma,Pete's Place,United States,34.9251,-95.7253
+59,Whitsett,North Carolina,Red Oak Brewery,United States,36.0613,-79.5695
+60,Sydney,New South Wales,Tooth's,Australia,-33.8671,151.207
+61,Saint Paul,Minnesota,Green Mill Brewing - Saint Paul,United States,44.9398,-93.1568
+62,Midvale,Utah,Hoppers Seafood & Grill,United States,40.6215,-111.866
+63,San Francisco,California,Magnolia Pub and Brewery,United States,37.7702,-122.445
+64,Lake Barrington,Illinois,Onion Pub & Brewery,United States,42.1865,-88.1835
+65,San Marcos,California,San Marcos Brewery & Grill,United States,33.1345,-117.191
+66,Lake Oswego,Oregon,Saxer Brewing,United States,45.4207,-122.671
+67,Melbourne,Florida,Charlie and Jake's Brewery and BBQ,United States,28.2126,-80.6734
+68,Ruiselede,West-Vlaanderen,De Leyerth Brouwerijen,Belgium,51.0811,3.3699
+69,Downers Grove,Illinois,Founders Hill Brewing,United States,41.8089,-88.0112
+70,Erpe-Mere,Oost-Vlaanderen,Kleinbrouwerij de Glazen Toren,Belgium,50.9193,3.9666
+71,Lake Placid,New York,Lake Placid Pub & Brewery,United States,44.2829,-73.9813
+72,Pensacola,Florida,McGuire's Irish Pub and Brewery - Pensacola,United States,30.4181,-87.2024
+73,Fulton,California,Moonlight Brewing,United States,38.498,-122.78
+74,Conestoga,Pennsylvania,Spring House Brewing Company,United States,39.9525,-76.3295
+75,Nederland,Colorado,Wolf Tongue Brewery,United States,39.9619,-105.51
+76,Nashville,Tennessee,Yazoo Brewing,United States,36.151,-86.7821
+77,Blaugies,Hainaut,Brasserie de Blaugies,Belgium,50.3693,3.827
+78,Kenosha,Wisconsin,Brewmasters Restaurant and Brewery South,United States,42.5847,-87.8212
+79,Mechelen,Antwerpen,Brouwerij Het Anker,Belgium,51.0325,4.473
+80,Biloxi,Mississippi,Coast Brewing,United States,30.396,-88.8853
+81,Mount Horeb,Wisconsin,Grumpy Troll Restaurant and Brewery,United States,43.0081,-89.7383
+82,Minneapolis,Minnesota,Herkimer Pub & Brewery,United States,44.9491,-93.2885
+83,Woodbridge,New Jersey,JJ Bitting Brewing,United States,40.5549,-74.2771
+84,Saint Louis,Missouri,Saint Louis Brewery / Schlafy Tap Room,United States,38.633,-90.21
+85,San Francisco,California,Shmaltz Brewing Company,United States,37.7749,-122.419
+86,Southampton,New York,Southampton Publick House,United States,40.8903,-72.3927
+87,Tampa,Florida,Stroh Brewery Company,United States,27.9494,-82.4651
+88,Canning Vale,Western Australia,Swan Brewery,Australia,-32.0638,115.912
+89,Innerleithen,Scotland,Traquair House Brewery,United Kingdom,55.619,-3.0636
+90,Boonville,California,Anderson Valley Brewing,United States,39.0014,-123.356
+91,Saint Louis,Missouri,Anheuser-Busch,United States,38.5983,-90.209
+92,Strongsville,Ohio,Brew Kettle Taproom & Smokehouse BOP,United States,41.347,-81.8226
+93,Ingelmunster,West-Vlaanderen,Brouwerij Van Honsebrouck,Belgium,50.9201,3.2579000000000002
+94,Cedar Rapids,Iowa,Cedar Brewing,United States,41.9625,-91.6918
+95,Marina,California,English Ales Brewery,United States,36.6802,-121.804
+96,Fort Collins,Colorado,Fort Collins Brewery,United States,40.5832,-105.042
+97,London,London,"Fuller, Smith & Turner PBC",United Kingdom,51.4877,-0.24980000000000002
+98,Cambridge,Massachusetts,John Harvard's Brew House - Harvard Square,United States,42.3724,-71.1193
+99,Lake Delton,Wisconsin,Pumphouse Pizza and Brewing,United States,43.6011,-89.7937
+100,Mount Pleasant,South Carolina,"T-Bonz Gill, Grill and Brewery",United States,32.8091,-79.875
+101,Batavia,Illinois,Cugino Brewing Company,United States,41.8539,-88.2776
+102,Melmerby,North Yorkshire,Hambleton Ales,United Kingdom,54.1744,-1.4844
+103,London,Ontario,Labatt Ontario Breweries,Canada,42.9778,-81.2467
+104,Eugene,Oregon,Ninkasi Brewing,United States,44.0569,-123.11
+105,Greenwood,Indiana,Oaken Barrel Brewing,United States,39.615,-86.0901
+106,Chicago,Illinois,Black Toad Brewing Company,United States,41.8817,-87.6926
+107,Roeselare,West-Vlaanderen,Brouwerij Rodenbach,Belgium,50.9462,3.1362
+108,Surrey,British Columbia,Central City Brewing Company,Canada,49.1873,-122.85
+109,Baltimore,Maryland,Clipper City Brewing Co.,United States,39.2308,-76.6751
+110,Des Moines,Iowa,Court Avenue Brewing,United States,41.5855,-93.621
+111,Wasilla,Alaska,Great Bear Brewing,United States,61.5816,-149.439
+112,Idaho Falls,Idaho,Idaho Brewing,United States,43.4666,-112.034
+113,Austin,Texas,Independence Brewing Co,United States,30.2131,-97.7358
+114,Perth,Scotland,Inveralmond Brewery,United Kingdom,56.4174,-3.4779
+115,Chippewa Falls,Wisconsin,Jacob Leinenkugel Brewing Company,United States,44.9449,-91.3968
+116,Berkeley,California,"Pyramid Alehouse, Brewery and Restaurant - Berkeley",United States,47.5917,-122.335
+117,St. Mary's,Pennsylvania,Straub Brewery,United States,41.4277,-78.5539
+118,Ipswich,Suffolk,Tollemache and Cobbold Brewery,United Kingdom,52.0593,1.1557
+119,Bethlehem,Pennsylvania,Bethlehem Brew Works,United States,40.622,-75.382
+120,Calgary,Alberta,Big Rock Brewery,Canada,50.9847,-113.956
+121,San Leandro,California,Drake's Brewing,United States,37.7176,-122.182
+122,Santa Rosa,California,Kelmer's Brewhouse,United States,38.4405,-122.714
+123,Duisburg,Nordrhein-Westfalen,Knig Brauerei,Germany,51.5314,6.7418
+124,Duncansville,Pennsylvania,Marzoni's Brick Oven & Brewing Co,United States,40.4234,-78.4339
+125,Greensburg,Pennsylvania,Red Star Brewery & Grille,United States,40.3044,-79.5471
+126,Waukesha,Wisconsin,Remington Watson Smith Brewing,United States,43.0117,-88.2315
+127,Richmond,British Columbia,Big River Brewing,Canada,49.1344,-123.065
+128,Soy,Luxembourg,Brasserie Fantme,Belgium,50.286,5.5127
+129,Anderlecht,Brussel,Brasserie-Brouwerij Cantillon,Belgium,50.8416,4.3355
+130,Frederick,Maryland,Frederick Brewing,United States,39.3628,-77.4265
+131,Philadelphia,Pennsylvania,Independence Brew Pub,United States,39.9526,-75.1594
+132,Glen Mills,Pennsylvania,McKenzie Brew House,United States,39.8658,-75.5442
+133,Saratoga Springs,New York,Mendocino Brewing - Saratoga Springs,United States,43.0831,-73.7846
+134,Las Vegas,Nevada,Monte Carlo Casino and Brewpub,United States,36.1286,-115.171
+135,San Francisco,California,Shmaltz Enterprises,United States,37.7481,-122.419
+136,San Ramon,California,The Hop Yard,United States,37.7839,-122.001
+137,Harrisburg,Pennsylvania,Troegs Brewing,United States,40.2559,-76.8715
+138,Miesbach,Bayern,Weissbierbrauerei Hopf,Germany,47.794,11.8311
+139,Rock Island,Illinois,Blue Cat Brew Pub,United States,41.5118,-90.5746
+140,Harrogate,North Yorkshire,Daleside Brewery,United Kingdom,53.9999,-1.501
+141,Traunstein,Bayern,Hofbruhaus Traunstein,Germany,47.8691,12.650500000000001
+142,Marion,Montana,Lang Creek Brewry,United States,48.014,-115.011
+143,Latrobe,Pennsylvania,Latrobe Brewing,United States,40.3212,-79.3795
+144,Charleston,South Carolina,Palmetto Brewing,United States,32.8017,-79.9455
+145,Manitowoc,Wisconsin,Courthouse Pub,United States,44.0886,-87.6576
+146,Bamberg,Bayern,Heller Bru Trum,Germany,49.892,10.8853
+147,Hartford,Wisconsin,Rothaus Brauerei,United States,43.3178,-88.379
+148,Scottsdale,Arizona,Sonoran Brewing Company,United States,33.7268,-111.853
+149,Fredrick,Maryland,"Wild Goose Brewery, LLC",United States,39.3628,-77.4265
+150,Asheville,North Carolina,Asheville Pizza and Brewing Co.,United States,35.6221,-82.5536
+151,Manchester,Manchester,Boddington's Brewery,United Kingdom,53.4807,-2.2344
+152,Los Angeles,California,Bonaventure Brewing Co,United States,34.0532,-118.256
+153,Sint-Pieters-Leeuw,Vlaams Brabant,Brasserie de la Senne,Belgium,50.7853,4.2437
+154,Quenast,Brabant Wallon,Brasserie Lefebvre,Belgium,50.6746,4.1509
+155,Tacoma,Washington,Engine House #9,United States,47.256,-122.473
+156,Bury St. Edmunds,Suffolk,Greene King,United Kingdom,52.241,0.7157
+157,Suisun City,California,Grizzly Bay Brewing,United States,38.2382,-122.04
+158,Modesto,California,Hornsby's Pubdrafts Ltd.,United States,37.6345,-120.982
+159,Klamath Falls,Oregon,Mia and Pia's Pizzeria and Brewhouse,United States,42.2249,-121.782
+160,Littleton,Colorado,Mill Steakhouse,United States,39.612,-105.019
+161,Holyoke,Massachusetts,Paper City Brewing Company,United States,42.2012,-72.6104
+162,Newcastle-upon-Tyne,Northumberland,Scottish & Newcastle Breweries,United Kingdom,40.8918,-76.7975
+163,Berkeley Heights,New Jersey,Trap Rock Restaurant and Brewery,United States,40.6892,-74.4349
+164,Fuquay Varina,North Carolina,Aviator Brewing Company,United States,35.6197,-78.8085
+165,Amherst,Massachusetts,Amherst Brewing Company,United States,42.3763,-72.5199
+166,Long Valley,New Jersey,Long Valley Pub & Brewery,United States,40.7843,-74.78
+167,Aberdeen,North Carolina,Pinehurst Village Brewery,United States,35.1315,-79.4295
+168,Solon,Iowa,Stone City Brewing,United States,41.8072,-91.4941
+169,Detroit,Michigan,Atwater Block Brewing,United States,42.3372,-83.0186
+170,San Francisco,California,Beach Chalet Brewery,United States,37.7694,-122.51
+171,Baltimore,Maryland,DuClaw,United States,39.2807,-76.5944
+172,Cleveland,Ohio,Great Lakes Brewing,United States,41.4844,-81.7042
+173,Portland,Oregon,Hair of the Dog Brewing,United States,45.4901,-122.643
+174,Lafayette,Indiana,Lafayette Brewing,United States,40.4194,-86.89
+175,Mossautal,Hessen,Privat-Brauerei Schmucker Ober-Mossau KG,Germany,49.6747,8.925
+176,Watou,West-Vlaanderen,Brouwerij Van Eecke,Belgium,50.8612,2.6615
+177,San Rafael,California,California Cider Company,United States,37.9735,-122.531
+178,Berkeley,California,Golden Pacific Brewing,United States,37.8716,-122.273
+179,Bloomington,Illinois,Illinois Brewing,United States,40.4787,-88.9946
+180,Cockermouth,Cumbria,Jennings Brewery,United Kingdom,54.6649,-3.3634
+181,Toronto,Ontario,Lwenbru Munich,Canada,43.7379,-79.5714
+182,Oakland,California,Pacific Coast Brewing,United States,37.8016,-122.274
+183,Kahului,Hawaii,Sharktooth Brewing,United States,20.8947,-156.47
+184,Kln,Nordrhein-Westfalen,Brauhaus Sion,Germany,50.9394,6.9594000000000005
+185,Elk Grove,California,Elk Grove Brewery & Restaurant,United States,38.4093,-121.363
+186,Sanctuary Cove,Queensland,Gold Coast Brewery,Australia,-27.8539,153.359
+187,Pont Fer,Phoenix,Phoenix Beverages Ltd,Mauritius,-20.2738,57.4971
+188,Toronto,ON,Steam Whistle Brewery,Canada,43.6414,-79.3869
+189,Roseburg,Oregon,Umpqua Brewing,United States,43.2165,-123.342
+190,Bend,Oregon,Deschutes Brewery,United States,44.0474,-121.323
+191,Koblenz,Rheinland-Pfalz,Knigsbacher Brauerei,Germany,50.3216,7.5862
+192,Niles,Ohio,Ohio Brewing,United States,41.1828,-80.7654
+193,San Diego,California,Taylor's Restaurant and Brewery,United States,32.7153,-117.157
+194,Galesburg,Michigan,Bell's Brewery Inc.,United States,42.2843,-85.4538
+195,Moline,Illinois,Bent River Brewing,United States,41.5059,-90.5171
+196,Las Vegas,Nevada,Big Dog's Brewing Company,United States,36.2426,-115.236
+197,Esen,West-Vlaanderen,Brouwerij De Dolle Brouwers,Belgium,51.0281,2.9038
+198,Centralia,Washington,Dick's Brewing,United States,46.7713,-123.007
+199,Pittsburgh,Pennsylvania,The Church Brew Works,United States,40.4624,-79.9645
+200,Idaho Springs,Colorado,Tommyknocker Brewery and Pub,United States,39.7418,-105.518
+201,Ichtegem,West-Vlaanderen,Brouwerij Strubbe,Belgium,51.0923,3.01
+202,Las Vegas,Nevada,"Main Street Station Casino, Brewery and Hotel",United States,36.1755,-115.145
+203,North Fremantle,Western Australia,Matilda Bay Brewing,Australia,-32.0232,115.754
+204,Bellegem,West-Vlaanderen,Brouwerij Bockor,Belgium,50.7767,3.2785
+205,Issum,Nordrhein-Westfalen,Diebels Privatbrauerei,Germany,51.5331,6.4213000000000005
+206,Green Bay,Wisconsin,Legends Brewhouse & Eatery of Green Bay,United States,44.5534,-88.0977
+207,Flagstaff,Arizona,Mogollon Brewing Company,United States,35.2156,-111.59
+208,Springfield,Missouri,Springfield Brewing,United States,37.2079,-93.2955
+209,Superior,Wisconsin,Twin Ports Brewing,United States,46.7208,-92.1041
+210,Westminster,Massachusetts,Wachusetts Brewing Company,United States,42.5586,-71.8715
+211,Middlebury,Vermont,Green Mountain Beverage,United States,44.0344,-73.1735
+212,Minocqua,Wisconsin,Minocqua Brewing Company,United States,45.8722,-89.7097
+213,Brooklyn,New York,Sixpoint Craft Ales,United States,40.674,-74.0118
+214,Anchorage,Alaska,Sleeping Lady Brewing Company,United States,61.2196,-149.896
+215,Athens,Georgia,Terrapin Beer Company,United States,33.9459,-83.4105
+216,Qingdao,Shandong,Tsingtao,China,36.0663,120.383
+217,Monroe,Washington,Twin Rivers Brewing,United States,47.8559,-121.971
+218,Chalfont,Pennsylvania,Crabby Larry's Brewpub Steak & Crab House,United States,40.2795,-75.2143
+219,Lincoln,Nebraska,Crane River Brewpub and Cafe,United States,40.8069,-96.6817
+220,McHenry,Maryland,Deep Creek Brewing,United States,39.5584,-79.3528
+221,Dortmund,Nordrhein-Westfalen,Dortmunder Actien Brauerei  DAB,Germany,51.5298,7.4692
+222,Chicago,Illinois,Golden Prairie Brewing,United States,41.9273,-87.6807
+223,Durham,Durham,Lanchester Brewing,United Kingdom,54.8229,-1.7457
+224,Blue Lake,California,Mad River Brewing,United States,40.879,-123.993
+225,Corona,California,Main Street Brewery,United States,33.8835,-117.565
+226,Hopland,California,Mendocino Brewing - Hopland,United States,38.9734,-123.116
+227,Foothill Ranch,California,ReaperAle,United States,33.6864,-117.66
+228,Monroeville,Pennsylvania,Rivertowne Pour House,United States,40.4465,-79.7642
+229,River Falls,Wisconsin,Rush River Brewing,United States,44.8902,-92.6378
+230,Santa Rosa,California,Santa Rosa Brewing,United States,38.4405,-122.714
+231,Dallas,Texas,Schooner Brewery,United States,32.803,-96.7699
+232,Salida,Colorado,"Amicas Pizza, Microbrews and More",United States,38.535,-105.992
+233,Mooresville,North Carolina,Carolina Beer Company,United States,35.6231,-80.8011
+234,Hood River,Oregon,Double Mountain Brewery & Taproom,United States,45.71,-121.515
+235,Reedsburg,Wisconsin,EndeHouse Brewery and Restaurant,United States,43.5325,-90.0026
+236,Las Cruces,New Mexico,High Desert Brewing Co.,United States,32.3096,-106.793
+237,Slippery Rock,Pennsylvania,North Country Brewery,United States,41.0638,-80.0556
+238,Blanco,Texas,Real Ale Brewing Company,United States,30.113,-98.4156
+239,Pittsburgh,Pennsylvania,Wainwright Brewing,United States,40.4616,-79.9653
+240,Goze,Hainaut,Brasserie Val de Sambre,Belgium,50.3682,4.3266
+241,Hoogstraten-Meer,Antwerpen,Brouwerij Sterkens,Belgium,51.4439,4.7386
+242,Cheyenne,Wyoming,C.B. & Potts of Cheyenne,United States,41.1607,-104.802
+243,Albany,New York,C.H. Evans Brewing Company,United States,42.6542,-73.7481
+244,Central City,Colorado,Dostal Alley,United States,39.8019,-105.514
+245,Elgin,Illinois,Prairie Rock Brewing - Elgin,United States,42.0347,-88.2819
+246,Bangalore,Karnataka,"Sabmiller India,",India,12.9683,77.657
+247,McKinleyville,California,Six Rivers Brewery,United States,40.9491,-124.102
+248,Bonduel,Wisconsin,Slab City Brewing,United States,44.7403,-88.4448
+249,Munster,Indiana,Three Floyds Brewing,United States,41.5354,-87.5158
+250,Warstein,Nordrhein-Westfalen,Warsteiner Brauerei,Germany,51.4416,8.3519
+251,Greenville,South Carolina,Blue Ridge Brewing,United States,34.8531,-82.3983
+252,Burton-upon-Trent,Staffordshire,Burton Bridge Brewery,United Kingdom,52.8065,-1.6225
+253,Marshall,Michigan,Dark Horse Brewing Co.,United States,42.2667,-84.9641
+254,Encinitas,California,Red Kettle Brewing,United States,33.037,-117.292
+255,Sterling,Virginia,Sweet Water Tavern and Brewery,United States,39.0324,-77.4097
+256,Auburn,California,American River Brewing,United States,38.8966,-121.077
+257,Kln,Nordrhein-Westfalen,Clner Hofbrau Frh,Germany,50.9401,6.957
+258,Pittsburgh,Pennsylvania,East End Brewing Company,United States,40.4553,-79.9043
+259,Appleton,Wisconsin,Fratellos Restaurant and Brewery,United States,44.2678,-88.4731
+260,Manheim,Pennsylvania,JoBoy's Brew Pub,United States,40.1707,-76.3838
+261,Port Washington,Wisconsin,Port Washington Brewing,United States,43.3872,-87.8756
+262,Morrisville,Vermont,Rock Art Brewery,United States,44.5693,-72.6034
+263,Charleston,South Carolina,Southend Brewery and Smokehouse - Charleston,United States,32.7785,-79.9273
+264,East Lothian,Scotland,Belhaven Brewery,United Kingdom,55.997,-2.5098000000000003
+265,Williamsport,Pennsylvania,Bullfrog Brewery,United States,41.2404,-77.0057
+266,Grand Lake,Colorado,Grand Lake Brewing,United States,40.2518,-105.82
+267,Butler,New Jersey,High Point Wheat Beer Company,United States,41.0016,-74.3403
+268,Red Bank,New Jersey,Original Basil T's,United States,40.3532,-74.0747
+269,Sheridan,Wyoming,Sanford's Grub and Pub,United States,44.8007,-106.956
+270,Sunnyside,Washington,Snipes Mountain Microbrewery & Restaurant,United States,46.3284,-120.008
+271,Washington,District of Columbia,Capital City Brewing Company,United States,38.8999,-77.0272
+272,Grand Island,Nebraska,Copper Eagle Brewing,United States,40.9222,-98.3581
+273,Vancouver,British Columbia,Dix Barbecue & Brewery,Canada,49.2766,-123.115
+274,Milwaukee,Wisconsin,Miller Brewing,United States,43.0445,-87.9626
+275,Billings,Montana,Montana Brewing,United States,45.7822,-108.506
+277,Royersford,Pennsylvania,Sly Fox Brewhouse and Eatery - Royersford,United States,40.1943,-75.534
+278,Melbourne,Victoria,Carlton and United Breweries,Australia,-37.8231,144.967
+279,Michigan City,Indiana,Duneland Brewhouse Pub and Restaurant,United States,41.7075,-86.895
+280,Cherry Hill,New Jersey,Flying Fish Brewing Company,United States,39.9121,-74.9701
+281,Winston-Salem,North Carolina,Foothills Brewing Company,United States,36.0973,-80.2509
+282,Glenwood Springs,Colorado,Glenwood Canyon Brewing Company,United States,39.5476,-107.323
+283,Frstenfeldbruck,Bayern,Knig Ludwig Schlobrauerei Kaltenberg,Germany,48.1826,11.2522
+284,Saint Paul,Minnesota,Minnesota Brewing,United States,44.9442,-93.0861
+285,Saint John,New Brunswick,Moosehead Breweries Ltd.,Canada,45.2578,-66.0984
+286,Marinette,Wisconsin,Rail House Restaurant and Brewpub,United States,45.0851,-87.6544
+287,San Antonio,Texas,Salado Creek Brewing Company,United States,29.4241,-98.4936
+288,Buxton,Derby,Whim Ales,United Kingdom,53.1407,-1.8084
+289,Kaufbeuren,Bayern,Aktienbrauerei Kaufbeuren,Germany,47.8781,10.6161
+290,Sint-Lievens-Esse,Oost-Vlaanderen,Brouwerij Van Den Bossche,Belgium,50.8564,3.8845
+291,Beloit,Wisconsin,BT McClintic Beer Company,United States,42.5083,-89.0318
+292,Davenport,Iowa,Front Street Brewery,United States,41.5202,-90.5725
+293,Leipzig,Sachsen,Gasthaus & Gosebrauerei Bayerischer Bahnhof,Germany,51.3397,12.3714
+294,Manchester,New Hampshire,Milly's Tavern,United States,42.9945,-71.4674
+295,Fort Mitchell,Kentucky,Oldenberg Brewery,United States,39.0472,-84.5599
+296,Portland,Oregon,Roots Organic Brewing,United States,45.5118,-122.659
+297,San Diego,California,Tailgate Beer,United States,32.7732,-117.055
+298,Lincoln,California,Beermann's Beerwerks BrewPub,United States,38.8916,-121.293
+299,Concord,California,Coastal Fog Brewing,United States,37.978,-122.031
+300,Wisbech,Cambridge,Elgood & Sons,United Kingdom,52.6643,0.1595
+301,Pleasanton,California,HopTown Brewing,United States,37.677,-121.898
+302,Newark,Delaware,Iron Hill Brewery - Newark,United States,39.6834,-75.7467
+303,Papillion,Nebraska,Nebraska Brewing Company,United States,41.1339,-96.0307
+304,Santa Cruz,California,Seabright Brewery,United States,36.9676,-122.008
+305,Shiner,Texas,Spoetzl Brewery,United States,29.426,-97.1607
+306,Davis,California,Sudwerk Privatbrauerei Hbsch,United States,38.5472,-121.726
+307,Boise,Idaho,Tablerock,United States,43.6113,-116.206
+308,Beersel,Vlaams Brabant,3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Belgium,50.7668,4.3081
+309,Mnster,Nordrhein-Westfalen,Brauerei und Altbierkche Pinkus Mller,Germany,51.9657,7.6214
+310,Dsseldorf,Nordrhein-Westfalen,Brauhaus Johann Albrecht - Dsseldorf,Germany,51.2404,6.7516
+311,Fairfield,New Jersey,Cricket Hill,United States,40.8726,-74.2964
+312,Moskva,Moskva,Efes Moscow Brewery,Russia,55.7558,37.6176
+313,Duluth,Minnesota,Lake Superior Brewing,United States,46.7611,-92.1319
+314,Portland,Oregon,Nor'Wester Brewery and Public House,United States,45.5235,-122.676
+315,Red Lodge,Montana,Red Lodge Ales,United States,45.1913,-109.247
+316,Chambersburg,Pennsylvania,Roy Pitz Brewing Company,United States,39.939,-77.6566
+317,Denver,Colorado,SandLot Brewery at Coors Field,United States,39.7557,-104.993
+318,Casper,Wyoming,Sweetwater Brewing - Casper,United States,42.8666,-106.313
+319,Dene,Namur,Abbaye de Maredsous,Belgium,50.3093,4.7646
+320,Bar Harbor,Maine,Atlantic Brewing Company,United States,44.3996,-68.334
+321,Northville,Michigan,Bonfire Brewery,United States,42.4311,-83.4833
+322,Stockport,Cheshire,Frederic Robinson Ltd.,United Kingdom,41.499,-72.9007
+323,Port Washington,Wisconsin,Harbor City Brewing,United States,43.3871,-87.8795
+324,Arcata,California,Humboldt Brewing,United States,40.87,-124.087
+325,Milwaukee,Wisconsin,Mickey's Brewing Co.,United States,43.0389,-87.9065
+326,Metuchen,New Jersey,Pizzeria Uno Chicago Grill & Brewery,United States,37.2283,-77.3903
+327,Knoxville,Tennessee,Smoky Mountain Brewing,United States,35.9657,-83.9181
+328,Detroit,Michigan,Stoney Creek Brewing Company,United States,42.3372,-83.0186
+329,Omaha,Nebraska,Upstream Brewing Company at Legacy,United States,41.2331,-96.1811
+330,Ulm,Baden-Wrttemberg,Barfer - das kleine Brauhaus,Germany,48.3979,9.9899
+331,Sturgeon Bay,Wisconsin,Cherryland Brewing,United States,44.8342,-87.377
+332,Helena,Montana,Lewis & Clark Brewing Company,United States,46.5977,-112.037
+333,Lombard,Illinois,Taylor Brewing,United States,41.8358,-88.0091
+334,Boulder,Colorado,Twisted Pine Brewing Company,United States,40.0201,-105.251
+335,Maidstone,Kent,Whitstable Brewery,United Kingdom,51.2047,0.6813
+336,Kansas City,Missouri,Amerisports Brew Pub,United States,39.1551,-94.482
+337,Berlin,Berlin,Berliner Kindl Brauerei AG,Germany,52.4793,13.4293
+338,Binche,Hainaut,Brasserie La Binchoise,Belgium,50.408,4.1659
+339,Kln,Nordrhein-Westfalen,Brauerei Reissdorf,Germany,50.8753,6.9944
+340,Chapel Hill,North Carolina,Carolina Brewery,United States,35.9103,-79.0632
+341,Windsor,Vermont,Harpoon Brewery - Windsor,United States,43.513,-72.4015
+342,Moab,Utah,Moab Brewery,United States,38.5657,-109.55
+343,Portsmouth,New Hampshire,Portsmouth Brewery,United States,43.0781,-70.7575
+344,St. Austell,Cornwall,St. Austell Brewery,United Kingdom,50.3416,-4.7883
+345,Durango,Colorado,Steamworks Brewing - Durango,United States,37.2724,-107.88
+346,Lynnwood,Washington,Ellersick Brewing Big E Ales,United States,47.8099,-122.302
+347,Redmond,Washington,Far West Ireland Brewing,United States,47.6701,-122.118
+348,Denver,Colorado,Hops Grillhouse & Brewery - Cherry Creek,United States,39.7187,-104.95
+349,New Albany,Indiana,New Albanian Brewing,United States,38.3281,-85.8171
+350,Sacramento,California,Rubicon Brewing,United States,38.5731,-121.481
+351,La Jolla,California,Sports City Cafe & Brewery,United States,33.8575,-117.876
+352,Sydney,New South Wales,Tooheys,Australia,-33.8501,151.045
+353,Stockton,California,Valley Brewing Company,United States,37.9551,-121.322
+354,Victoria,British Columbia,Vancouver Island Brewing,Canada,48.4344,-123.367
+355,Houffalize-Achouffe,Luxembourg,Brasserie D'Achouffe,Belgium,50.1507,5.7442
+356,Bedford,Bedford,Charles Wells Ltd.,United Kingdom,52.1321,-0.48150000000000004
+357,Dillon,Colorado,Dillon Dam Brewery,United States,39.6282,-106.059
+358,Motten,Bayern,Hochstiftliches Brauhaus in Bayern,Germany,50.3949,9.7724
+359,Manhattan Beach,California,Manhattan Beach Brewing,United States,33.8844,-118.411
+361,Milford,New Hampshire,Pennichuck Brewing Company,United States,42.8368,-71.6626
+362,Granby,Connecticut,The Cambridge House,United States,41.9658,-72.793
+363,Millheim,Pennsylvania,Elk Creek Cafe and Aleworks,United States,40.8911,-77.477
+364,West Dundee,Illinois,Emmett's Tavern and Brewery,United States,42.0981,-88.2783
+365,Lawrence,Kansas,Free State Brewing,United States,38.9718,-95.2357
+366,Mission,British Columbia,Mission Springs Brewing,Canada,49.1323,-122.343
+367,Portland,Oregon,Portland Brewing,United States,45.5415,-122.713
+368,Campbell,California,Rock Bottom Restaurant & Brewery - San Jose,United States,37.2886,-121.933
+369,Bar Harbor,Maine,Bar Harbor Brewing Company,United States,44.3875,-68.2046
+370,Sunnyvale,California,Faultline Brewing #1,United States,37.387,-121.993
+371,Salt Lake City,Utah,Rivers Effortless Dining,United States,40.638,-111.69
+372,Houston,Texas,Saint Arnold Brewing,United States,29.8123,-95.4675
+373,Longview,Texas,Steel Brewing,United States,32.5007,-94.7405
+374,Alpine,California,Alpine Beer Company,United States,32.8355,-116.765
+375,Seattle,Washington,Baron Brewing Company,United States,47.5203,-122.312
+376,Opitter,Limburg,Brouwerij Sint-Jozef,Belgium,51.1168,5.6464
+377,Inyokern,California,Indian Wells Brewing,United States,35.6675,-117.874
+378,Burnaby,British Columbia,Marine Pub & Brewhouse,Canada,49.2055,-122.978
+379,Chicago,Illinois,Rock Bottom Restaurant & Brewery - Chicago,United States,41.8915,-87.6284
+380,Stevens Point,Wisconsin,Stevens Point Brewery,United States,44.5104,-89.5734
+381,Columbus,Nebraska,Gottberg Brew Pub,United States,41.4295,-97.3623
+382,Manchester,Manchester,JW Lees and Co (Brewers) Ltd.,United Kingdom,53.5412,-2.1734
+383,Richmond,Virginia,Main Street Beer Company #1,United States,37.543,-77.4691
+384,Bellingham,Washington,Orchard Street Brewery,United States,48.7596,-122.488
+385,Pleasanton,California,Pleasanton Main Street Brewery,United States,37.6645,-121.873
+386,Portland,Oregon,"BJ's Pizza, Grill, and Brewery - Jantzen Beach",United States,45.5235,-122.676
+387,Golden,Colorado,Coors Brewing - Golden Brewery,United States,39.7599,-105.219
+388,Middletown,Rhode Island,Costal Extreme Brewing Company,United States,41.537,-71.2796
+389,Vancouver,British Columbia,Dockside Brewing,Canada,49.269800000000004,-123.132
+390,Chicago,Illinois,Goose Island Beer Company - Clybourn,United States,41.9137,-87.6543
+391,Issaquah,Washington,Issaquah Brewhouse,United States,47.53,-122.037
+392,Castle Rock,Colorado,Jarre Creek Ranch Brewing,United States,39.3722,-104.856
+393,Toms River,New Jersey,Joshua Huddy's Brew Pub and Grill,United States,39.9529,-74.201
+394,Moskva,Moskva,Ostankinskij Pivovarennij Zavod,Russia,55.7558,37.6176
+395,Mount Vernon,Washington,Skagit River Brewing,United States,48.419200000000004,-122.335
+396,Ingelmunster,West-Vlaanderen,Alvinne Picobrouwerij,Belgium,50.919,3.2632
+397,Columbus,Ohio,Barley's Brewing #1,United States,39.9719,-83.0027
+398,Cincinnati,Ohio,Barrel House Brewing Co.,United States,39.1136,-84.526
+399,Bremen,Bremen,Brauerei Beck,Germany,53.0787,8.7901
+400,Ninove,Oost-Vlaanderen,Brouwerij Slaghmuylder,Belgium,50.8417,4.0213
+401,Sunnyvale,California,Firehouse Grill & Brewery,United States,37.3775,-122.03
+402,Lewes,East Sussex,Harvey & Son (Lewes),United Kingdom,50.8742,0.0167
+403,Minneapolis,Minnesota,James Page Brewing,United States,45.0039,-93.2502
+404,Des Moines,Iowa,Raccoon River Brewing,United States,41.5841,-93.6296
+405,Santa Rosa,California,Russian River Brewing,United States,38.4418,-122.712
+406,Burlington,Vermont,Three Needs Brewery and Taproom,United States,44.4771,-73.2115
+407,Portland,Oregon,Alameda Brewhouse,United States,45.5484,-122.619
+408,Pipaix,Hainaut,Brasserie Dubuisson,Belgium,50.5779,3.5554
+409,Lake Villa,Illinois,Columbia Bay Brewery Restaurant and Pub,United States,42.417,-88.074
+410,Wilkes Barre,Pennsylvania,Lion Brewery Inc.,United States,41.2557,-75.8583
+411,Toronto,Ontario,Molson Breweries of Canada,Canada,43.6706,-79.3824
+412,Hastings,Nebraska,Murphy's Wagon Wheel,United States,40.5843,-98.3912
+413,Santa Fe,New Mexico,Santa Fe Brewing Company,United States,35.5966,-106.052
+414,Socorro,New Mexico,Socorro Springs Brewing,United States,34.0701,-106.893
+415,Chapel Hill,North Carolina,Top of the Hill Restaurant and Brewery,United States,35.9132,-79.0558
+416,Westmalle,Antwerpen,Brouwerij Abdij der Trappisten van Westmalle,Belgium,51.2974,4.6881
+417,Arvada,Colorado,Cheshire Cat Brewery,United States,39.8023,-105.084
+418,Cleveland,Ohio,Cleveland ChopHouse and Brewery,United States,41.4995,-81.6994
+419,Regency Park,South Australia,Coopers Brewery,Australia,-34.8727,138.573
+420,Baltimore,Maryland,DeGroen's Grill,United States,39.2904,-76.6122
+421,Neuzelle,Brandenburg,Klosterbrauerei Neuzelle,Germany,52.091,14.6509
+422,Victoria,British Columbia,Lighthouse Brewing,Canada,48.4358,-123.396
+423,Kansas City,Missouri,McCoy's Public House and Brewkitchen,United States,39.0534,-94.5919
+424,Olathe,Kansas,Pony Express Brewing,United States,38.8814,-94.8191
+425,San Diego,California,San Diego Brewing,United States,32.7922,-117.099
+426,Monterrey,Nuevo Leon,Sierra Madre Brewing Co.,Mexico,25.6811,-100.363
+427,Siletz,Oregon,Siletz Roadhouse & Brewery,United States,44.722,-123.918
+428,Denver,Colorado,Tivoli Brewing,United States,39.7392,-104.985
+429,Saint Paul,Minnesota,Tunner's Guild Brewing Systems,United States,44.9442,-93.0861
+430,Reamstown,Pennsylvania,Union Barrel Works,United States,40.2118,-76.1232
+431,Augusta,Missouri,Augusta Brewing,United States,38.5702,-90.8802
+432,San Clemente,California,Left Coast Brewing,United States,33.4577,-117.589
+433,Bamberg,Bayern,Maisel Bru,Germany,49.8928,10.9131
+434,Pacific City,Oregon,Pelican Pub & Brewery,United States,45.2152,-123.97
+435,St. Paul,Minnesota,Flat Earth Brewing Company,United States,44.9084,-93.1538
+436,La Jolla,California,La Jolla Brew House,United States,32.8409,-117.274
+437,Fort Collins,Colorado,New Belgium Brewing,United States,40.5929,-105.07
+438,Heber City,Utah,Park City Brewing,United States,40.496,-111.42
+439,Portland,Oregon,Raccoon Lodge and Brewpub / Cascade Brewing,United States,45.4856,-122.754
+440,Blue Ash,Ohio,Watson Brothers Brewhouse,United States,39.232,-84.3783
+441,Newberg,Oregon,White Oak Cider,United States,45.3498,-123.073
+442,San Diego,California,Ballast Point Brewing,United States,32.7668,-117.195
+443,Burton-upon-Trent,Staffordshire,Bass Brewers,United Kingdom,52.8046,-1.628099999999999
+444,Irchonwelz,Hainaut,Brasserie des Gants,Belgium,50.620400000000004,3.7592
+445,Onuma,Hokkaido,Brauhaus Onuma,Japan,43.0646,141.347
+446,Fremont,California,Brewpub-on-the-Green,United States,37.5483,-121.989
+447,Jumet,Hainaut,Brouwerij Alken-Maes,Belgium,50.4431,4.4147
+448,Bavikhove,West-Vlaanderen,Brouwerij Bavik - De Brabandere,Belgium,50.8628,3.2992
+449,Vichte,West-Vlaanderen,Brouwerij Verhaeghe,Belgium,50.8322,3.3884
+450,Coeur d'Alene,Idaho,Coeur d'Alene Brewing Company,United States,47.6745,-116.784
+451,Wilson,Wyoming,Grand Teton Brewing #1,United States,43.4988,-110.877
+452,Kihei,Hawaii,Hapa*s Brew Haus and Restaurant,United States,20.7592,-156.457
+453,Cham,Bayern,Hofmark Brauerei,Germany,49.1672,12.6399
+454,Austin,Texas,Live Oak Brewing,United States,30.2541,-97.7055
+455,Eureka,California,Lost Coast Brewery,United States,40.8032,-124.165
+456,Chicago,Illinois,Metropolitan Brewing,United States,41.975,-87.674
+457,Collegeville,Pennsylvania,New Road Brewhouse,United States,40.1857,-75.4516
+458,Pittsburgh,Pennsylvania,Penn Brewery,United States,40.4569,-79.9915
+459,Portland,Oregon,Yamhill Brewing,United States,45.5235,-122.676
+460,Austin,Texas,Celis Brewery,United States,30.2672,-97.7431
+461,Farmville,North Carolina,Duck-Rabbit Craft Brewery,United States,35.6003,-77.5971
+462,Anchorage,Alaska,Moose's Tooth Pub and Pizzeria,United States,61.1902,-149.869
+463,Atlanta,Georgia,New River Brewing,United States,33.9089,-84.3056
+464,Fort Bragg,California,North Coast Brewing Company,United States,39.4466,-123.806
+465,Denver,Colorado,Pint's Pub Brewery and Freehouse,United States,39.7369,-104.991
+466,Nagoya,Chubu,Pokka Beer Works,Japan,35.1814,136.906
+467,Cave Junction,Oregon,Wild River Brewing and Pizza - Cave Junction,United States,42.1707,-123.645
+468,Kempten,Bayern,Allguer Brauhaus AG Kempten,Germany,47.7487,10.5694
+469,Lee's Summit,Missouri,Bard's Tale Beer Company,United States,38.9169,-94.3943
+470,Surrey,British Columbia,Big Ridge Brewing,Canada,49.1049,-122.69
+471,Portsmouth,Hampshire,George Gale & Company,United Kingdom,50.7989,-1.0912
+472,Nelson,British Columbia,Nelson Brewing,Canada,49.4884,-117.29
+473,Milwaukee,Wisconsin,Onopa Brewing,United States,43.0389,-87.9065
+474,Konstanz,Baden-Wrttemberg,Ruppaner-Brauerei,Germany,47.6855,9.208
+475,Sonora,California,Snowshoe Brewing - Sonora,United States,37.9841,-120.382
+476,Willoughby,Ohio,Willoughby Brewing,United States,41.6416,-81.4066
+477,Oak Bluffs,Massachusetts,Brewery at Martha's Vineyard,United States,41.4548,-70.565
+478,Red Oak,Iowa,Firehouse Brewery & Restaurant,United States,41.0117,-95.2272
+479,Vernon,British Columbia,Okanagan Spring Brewery,Canada,50.2613,-119.277
+480,Weston-super-Mare,Somerset,RCH Brewery,United Kingdom,51.3723,-2.8773
+481,Bellaire,Michigan,Short's Brewing Company,United States,44.9763,-85.2104
+482,Denver,Colorado,Wynkoop Brewing,United States,39.7535,-104.998
+483,Lexington,Kentucky,Alltech's Lexington Brewing Company,United States,38.0501,-84.5088
+484,Greenwich,London,Meantime Brewing Company Limited,United Kingdom,51.4899,0.038
+485,Seattle,Washington,Pyramid Ales Brewery,United States,47.5924,-122.334
+486,Boulder,Colorado,RedFish New Orleans Brewhouse,United States,40.0187,-105.279
+487,Sacramento,California,Sacramento Brewing Company,United States,38.6191,-121.4
+488,New Hope,Pennsylvania,Triumph Brewing of New Hope,United States,40.3659,-74.9544
+489,Harrisburg,Pennsylvania,Appalachian Brewing Company,United States,40.2659,-76.8753
+490,Etna,California,Etna Brewing,United States,41.4559,-122.846
+491,Omaha,Nebraska,Granite City Food & Brewery - Omaha,United States,41.2672,-96.0714
+492,Phoenixville,Pennsylvania,Sly Fox Brewhouse and Eatery - Phoenixville,United States,40.1298,-75.5499
+493,Aurora,Illinois,America's Brewing,United States,41.7605,-88.309
+494,Brunehaut,Hainaut,Brasserie de Brunehaut,Belgium,50.5109,3.3883
+495,Glens Falls,New York,Cooper's Cave Ale Company,United States,43.3177,-73.64
+496,Greeley,Colorado,Crabtree Brewery,United States,40.4313,-104.688
+497,Pasadena,California,Craftsman Brewing,United States,34.1696,-118.159
+498,Paso Robles,California,Firestone Walker Brewing Company,United States,35.5953,-120.694
+499,Pittsburgh,Pennsylvania,Iron City Brewing Co.,United States,40.461,-79.9653
+500,Philadelphia,Pennsylvania,Nodding Head Brewpub,United States,39.9502,-75.1666
+501,Fresno,California,Sequoia Brewing Conoabt,United States,36.7582,-119.802
+502,Portland,Oregon,Blitz-Weinhard Brewing,United States,45.5325,-122.686
+503,Cerfontaine-Silenrieux,Namur,Brasserie De Silenrieux,Belgium,50.2248,4.4102
+504,Ternat,Vlaams Brabant,Brewery De Troch,Belgium,50.853,4.1649
+505,Dworp,Vlaams Brabant,Hanssens Artisanal,Belgium,50.729,4.2971
+506,Ishpeming,Michigan,Jasper Ridge Brewery,United States,46.5015,-87.679
+507,Milwaukee,Wisconsin,Rock Bottom Restaurant & Brewery - Milwaukee,United States,43.0399,-87.9117
+508,Salt Lake City,Utah,Uinta Brewing Compnay,United States,40.7326,-111.954
+509,Cambridge,Massachusetts,Cambridge Brewing,United States,42.3664,-71.0911
+510,White River Junction,Vermont,Catamount Brewing,United States,43.649,-72.3193
+511,Truckee,California,Fifty Fifty Brewing Co.,United States,39.322,-120.163
+512,Wilmington,North Carolina,First Coast Brewing,United States,34.2257,-77.9447
+513,Omaha,Nebraska,Jaipur Restaurant and Brewpub,United States,41.2328,-96.0825
+514,Boulder,Colorado,Oasis Brewery Annex,United States,40.015,-105.271
+515,Seattle,Washington,Redhook Ale Brewery,United States,47.6062,-122.332
+516,Madison,Wisconsin,Angelic Brewing,United States,43.0785,-89.382
+517,Wheeling,Illinois,Big Horn Brewing @ The RAM 2,United States,42.1511,-87.9144
+518,Montignies-sur-Roc,Hainaut,Brasserie De L'Abbaye Des Rocs,Belgium,50.3705,3.7263
+519,Miltenberg,Bayern,Brauhaus Faust,Germany,49.6993,9.2492
+520,Kalamazoo,Michigan,Kalamazoo Brewing,United States,42.2949,-85.5788
+521,Orlando,Florida,Orlando Brewing,United States,28.5265,-81.3827
+522,Delta,British Columbia,Shaftebury Brewing,Canada,49.1487,-122.912
+523,Ashland,Wisconsin,South Shore Brewery,United States,46.5872,-90.8921
+524,Warrenville,Illinois,Two Brothers Brewing,United States,41.8206,-88.2068
+525,Greeley,Colorado,Union Colony Brewery,United States,40.4233,-104.709
+526,Bloomington,Indiana,Upland Brewing,United States,39.1733,-86.5369
+527,Cooperstown,New York,Brewery Ommegang,United States,42.6818,-74.9255
+528,Diest,Vlaams Brabant,Brouwerij Duysters,Belgium,50.9882,5.0554
+529,Oconomowoc,Wisconsin,Oconomowoc Brewing,United States,43.1117,-88.4993
+530,Centerport,New York,The Blind Bat Brewery LLC,United States,40.8959,-73.3811
+531,Raleigh,North Carolina,Big Boss Brewing Company,United States,35.8104,-78.6179
+532,Fremont,California,Jack's Brewing,United States,37.5441,-121.988
+533,Newport,Oregon,Rogue Ales,United States,44.6202,-124.052
+534,Santa Fe,New Mexico,Second Street Brewery,United States,35.6631,-105.966
+535,Lodi,New York,Wagner Valley Brewing,United States,42.5739,-76.8582
+536,Baltimore,Maryland,Baltimore-Washington Beer Works,United States,39.42,-76.54
+537,Germantown,Tennessee,Boscos Memphis Brewing,United States,35.0868,-89.8101
+538,Salinas,California,Carmel Brewing,United States,36.6777,-121.656
+539,Reedsburg,Wisconsin,Corner Pub,United States,43.5323,-90.0099
+540,Peoria,Illinois,Crooked Waters Brewing,United States,40.6936,-89.589
+541,West Philly,Pennsylvania,Dock Street Beer,United States,39.9478,-75.2229
+542,Camino,California,Jack Russell Brewing,United States,38.7563,-120.679
+543,Gresham,Oregon,Main Street Alehouse,United States,45.5001,-122.431
+544,Dsseldorf,Nordrhein-Westfalen,Uerige Obergrige Hausbrauerei,Germany,51.225,6.7722
+545,Yakima,Washington,Yakima Brewing and Malting / Grant's Ales,United States,46.6021,-120.506
+546,Southwold,Suffolk,Adnams & Co.,United Kingdom,52.3277,1.6802000000000001
+547,Seattle,Washington,Elysian Brewery & Public House,United States,47.614,-122.316
+548,Niagara Falls,Ontario,Niagara Falls Brewing,Canada,43.0893,-79.11
+549,Moreno Valley,California,PH Woods Diner and Brewery,United States,33.9176,-117.26
+550,Campbell,California,Roost Brewery,United States,37.2869,-121.946
+551,Detroit,Michigan,Traffic Jam and Snug,United States,42.351,-83.0665
+552,Dallas,Texas,Yegua Creek Brewing - Dallas,United States,32.821,-96.7848
+553,Oudenaarde,Oost-Vlaanderen,Brouwerij Roman,Belgium,50.831,3.6759
+554,Vancouver,British Columbia,Granville Island Brewing Company,Canada,49.2705,-123.136
+555,Fort Wayne,Indiana,Mad Anthony Brewing,United States,41.0677,-85.1524
+556,Utica,New York,Panther Brewing Company,United States,43.1467,-75.1779
+557,Richmond,Virginia,Richbrau Brewing Company,United States,37.5356,-77.4338
+558,Green Bay,Wisconsin,Titletown Brewing,United States,44.52,-88.0173
+559,Swansea,Wales,Tomos Watkin and Sons Ltd.,United Kingdom,51.6666,-3.9443
+560,Rochefort,Namur,Abbaye Notre Dame du St Remy,Belgium,50.1999,5.2277000000000005
+561,Pleasantville,New York,Captain Lawrence Brewing Company,United States,41.126,-73.78960000000001
+562,Lincolnshire,Illinois,Flatlander's Restaurant & Brewery,United States,42.2031,-87.9302
+563,Tacoma,Washington,Harmon Brewing Company,United States,47.2436,-122.437
+564,Dsseldorf,Nordrhein-Westfalen,Hausbrauerei Zum Schlssel,Germany,51.2261,6.7745
+565,Roseburg,Oregon,Hawks Brewing,United States,43.2165,-123.342
+566,Fremantle,WA,Little Creatures Brewery,Australia,-32.0597,115.745
+567,Ukiah,California,Ukiah Brewing,United States,39.1498,-123.208
+568,Mankato,Minnesota,Bandana Brewery,United States,44.1636,-93.9994
+569,Aubel,Lige,Brasserie de l'Abbaye Val-Dieu,Belgium,50.7046,5.822
+570,Portland,Oregon,BridgePort Brewing,United States,45.5311,-122.685
+571,Westvleteren,West-Vlaanderen,Brouwerij Abdij Saint Sixtus,Belgium,50.8961,2.7222
+572,Helena,Montana,Kessler Brewing,United States,46.5958,-112.027
+573,Belfast,Maine,Belfast Bay Brewing Company,United States,44.4295,-68.975
+574,Urbana,Illinois,Bibiana Brewing,United States,40.1106,-88.2073
+575,Kansas City,Missouri,Boulevard Brewing Company,United States,39.0821,-94.5965
+576,Knoxville,Tennessee,Calhoun's Microbrewery,United States,35.932,-84.012
+577,Cross Plains,Wisconsin,Esser's Cross Plains Brewery,United States,43.1147,-89.6531
+578,Rochester,New York,Flour City Brewing,United States,43.161,-77.6109
+579,Neuhaus,Bayern,Kaiser-Bru,Germany,49.6283,11.5498
+580,Mill Creek,Washington,McMenamins Mill Creek,United States,47.8774,-122.211
+581,Abita Springs,Louisiana,Abita Brewing Company,United States,30.5049,-89.944
+582,Glen Ellyn,Illinois,Glen Ellyn Sports Brew,United States,41.8775,-88.067
+583,Sparta,New Jersey,Krogh's Restaurant and Brewpub,United States,41.0323,-74.6407
+584,Eagle River,Wisconsin,Loaf and Stein Brewing,United States,45.9172,-89.2443
+585,Vancouver,British Columbia,R&B; Brewing,Canada,49.2673,-123.103
+586,Sturgeon Bay,Wisconsin,Sturgeon Bay Brewing,United States,44.8342,-87.377
+587,Bloomington,Indiana,Bloomington Brewing Company,United States,39.1716,-86.5104
+588,Purnode,Namur,Brasserie du Bocq,Belgium,50.3114,4.9435
+589,Oudenaarde,Oost-Vlaanderen,Brouwerij Liefmans,Belgium,50.8439,3.617
+590,Rockford,Illinois,Carlyle Brewing,United States,42.2689,-89.0907
+591,GroÃŸostheim,Bavaria,Eder & Heylands,Germany,49.9211,9.0715
+592,Asheville,North Carolina,Highland Brewing Company,United States,35.5716,-82.4991
+593,Lancaster,Pennsylvania,Lancaster Brewing Co.,United States,40.0438,-76.2984
+594,New Glarus,Wisconsin,New Glarus Brewing Company,United States,42.8171,-89.6306
+595,State College,Pennsylvania,Otto's Pub and Brewery,United States,40.8098,-77.9101
+596,Kearney,Nebraska,Platte Valley Brewing,United States,40.6954,-99.0812
+597,Black River Falls,Wisconsin,Sand Creek Brewing Company,United States,44.2929,-90.8511
+598,Lyndonville,Vermont,Trout River Brewing,United States,44.5203,-72.0014
+599,New Brighton,Minnesota,Barley John's Brewpub,United States,45.036,-93.1984
+600,Vlezenbeek,Vlaams Brabant,Brouwerij Lindemans,Belgium,50.818,4.2307
+601,Beersel,Vlaams Brabant,Brouwerij Oud Beersel,Belgium,50.7586,4.3012
+602,Rochester,New York,High Falls Brewing,United States,43.1646,-77.6155
+603,Eau Claire,Wisconsin,Northwoods Brewpub Grill,United States,44.7776,-91.4433
+604,Albany,Oregon,Oregon Trader Brewing,United States,44.6365,-123.106
+605,Greenville,South Carolina,Thomas Creek Brewery,United States,34.7968,-82.4245
+606,Cleveland,Ohio,Western Reserve Brewing,United States,41.4995,-81.6954
+607,Hannover,Niedersachsen,Brauerei Herrenhausen,Germany,52.3935,9.6814
+608,Molenbeek,Brussel,Brewery Belle-Vue,Belgium,50.8527,4.3311
+609,Ellicott City,Maryland,Ellicott Mills Brewing,United States,39.2684,-76.7994
+610,Arlington Heights,Illinois,O'Grady's Brewery and Pub #1,United States,42.0884,-87.9806
+611,Rocky River,Ohio,Rocky River Brewing,United States,41.4623,-81.856
+612,Cardiff,Wales,SA Brain & Co. Ltd.,United Kingdom,51.4736,-3.179
+613,Honolulu,Hawaii,Ali`i Brewing,United States,21.3069,-157.858
+614,Assebroek,West-Vlaanderen,Brouwerij De Regenboog,Belgium,51.1968,3.2527
+615,Sankt-Peterburg,Sankt-Peterburg,Pivzavod Baltika /,Russia,59.939,30.3158
+616,Qingdao,Shandong,Qingdao Brewery,China,36.0663,120.383
+617,Lake Mills,Wisconsin,Tyranena Brewing,United States,43.0862,-88.8967
+618,Lewiston,ME,Baxter Brewing,United States,44.1004,-70.2148
+619,Laughlin,Nevada,Boiler Room Brewpub,United States,35.1584,-114.573
+620,Moultonborough,New Hampshire,Castle Springs Brewery,United States,43.7548,-71.3967
+621,Alva,Scotland,Harviestoun Brewery,United Kingdom,56.1531,-3.8006
+622,Dentergem,West-Vlaanderen,Liefmans Breweries,Belgium,50.9649,3.422
+623,Minneapolis,Minnesota,Rock Bottom Restaurant & Brewery - Minneapolis,United States,44.9765,-93.2747
+624,San Francisco,California,ThirstyBear Brewing,United States,37.7855,-122.4
+625,Berkeley,California,Triple Rock Brewery,United States,37.8734,-122.269
+626,Dallas,Texas,TwoRows Restaurant & Brewery - Dallas,United States,32.8545,-96.7687
+627,Alloa,Scotland,Williams Brothers Brewing Company,United Kingdom,56.1163,-3.7954
+628,Calgary,Alberta,Wyder's Cider,Canada,51.034,-114.083
+629,Opwijk,Vlaams Brabant,Brouwerij De Smedt,Belgium,50.971,4.191
+630,Toledo,Ohio,Maumee Bay Brewing,United States,41.6432,-83.5384
+631,Saint Paul,Minnesota,O'Gara's Bar & Grill,United States,44.9458,-93.167
+632,Fort Collins,Colorado,Odell Brewing,United States,40.5894,-105.063
+633,Eugene,Oregon,Wild Duck Brewing,United States,44.0521,-123.087
+634,Boulder,Colorado,Avery Brewing Company,United States,40.0166,-105.219
+635,Indianapolis,Indiana,Broad Ripple Brewing,United States,39.8735,-86.1427
+636,Jever,Niedersachsen,Friesisches Brauhaus zu Jever,Germany,53.5755,7.9016
+637,Mnchengladbach,Nordrhein-Westfalen,Hannen Brauerei,Germany,51.1913,6.4421
+638,South Burlington,Vermont,Magic Hat,United States,44.4284,-73.2131
+639,Milford,New Jersey,Ship Inn Brewpub,United States,40.5684,-75.0954
+640,Modesto,California,St. Stan's Brewing Co.,United States,37.6417,-121.004
+641,Morgan Hill,California,El Toro Brewing Company,United States,37.1553,-121.676
+642,Syracuse,New York,Middle Ages Brewing,United States,43.0508,-76.1617
+643,Utica,New York,Mississippi Brewing Co.,United States,40.687,-73.708
+644,Polson,Montana,Spanish Peaks Brewing,United States,47.6959,-114.176
+645,Delafield,Wisconsin,Water Street Lake Country,United States,43.0525,-88.3663
+646,Rose City,Michigan,Bad Frog Brewery Company,United States,44.4214,-84.1167
+647,Arlington,Virginia,Capitol City Brewing #4,United States,38.8411,-77.0869
+648,Moab,Utah,Eddie McStiff's Brewpub,United States,38.5725,-109.551
+649,Oak Harbor,Washington,Flyers Restraunt and Brewery,United States,48.2992,-122.652
+650,Grand Rapids,Michigan,Founders Brewing,United States,42.9585,-85.6735
+651,Mishawaka,Indiana,Mishawaka Brewing,United States,41.6931,-86.1818
+652,Salt Lake City,Utah,Salt Lake Brewing - Squatters,United States,40.7626,-111.895
+653,Fox,Alaska,Silver Gulch Brewing Company,United States,64.9583,-147.622
+654,Enterprise,Oregon,Terminal Gravity Brewing,United States,45.419200000000004,-117.272
+655,Dsseldorf,Nordrhein-Westfalen,Brauerei Schumacher,Germany,51.2216,6.7853
+656,Konstanz,Baden-Wrttemberg,Brauhaus Johann Albrecht - Konstanz,Germany,47.6651,9.175
+657,Amherst,Wisconsin,Central Waters Brewing Company,United States,44.4419,-89.2797
+658,Chicago,Illinois,Goose Island Beer Company - Fulton Street,United States,41.8871,-87.6721
+659,Vail,Colorado,Hubcap Brewery and Kitchen,United States,39.6403,-106.374
+660,Kulmbach,Bayern,Kulmbacher Brauerei AG,Germany,50.106,11.4442
+661,Bridgewater Corners,Vermont,Long Trail Brewing Co,United States,43.5882,-72.6563
+662,Tustin,California,Tustin Brewing,United States,33.7496,-117.812
+663,Philadelphia,Pennsylvania,Yards Brewing,United States,39.9831,-75.1274
+664,Bristol,Vermont,Bobcat Cafe & Brewery,United States,44.1332,-73.0784
+665,Brooklyn,New York,Brooklyn Brewery,United States,40.7215,-73.9575
+666,Middleton,Wisconsin,Capital Brewery,United States,43.0949,-89.5163
+667,Cold Spring,Minnesota,Cold Spring Brewing,United States,45.4582,-94.4291
+668,Milford,New York,Cooperstown Brewing Company,United States,42.5893,-74.9403
+670,Baunatal,Hessen,Htt-Brauerei Bettenhuser,Germany,51.2615,9.4494
+671,Philadelphia,Pennsylvania,Philadelphia Brewing Co,United States,39.9827,-75.1275
+672,Mnchen,Bayern,Unionsbru Haidhausen,Germany,48.1355,11.6009
+673,Meadville,Pennsylvania,"Voodoo Brewing Co.,LLC",United States,41.6372,-80.1549
+674,Lake Havasu City,Arizona,Barley Brothers Brewery and Grill,United States,34.4702,-114.35
+675,Leutkirch im AllgÃ¤u,Baden-WÃ¼rttemberg,Brauerei Hrle,Germany,47.8243,10.0239
+676,Fresno,California,Butterfield Brewing #1,United States,36.7477,-119.772
+677,Philadelphia,Pennsylvania,Manayunk Brewery and Restaurant,United States,40.0236,-75.2202
+678,Vancouver,British Columbia,Steamworks,Canada,49.2849,-123.11
+679,Atlanta,Georgia,Sweetwater Brewing - Atlanta,United States,33.8087,-84.3813
+680,Seattle,Washington,Big Time Brewing,United States,47.6576,-122.313
+681,Marrero,Louisiana,Day Brewing,United States,29.8994,-90.1004
+682,Shrewsbury,Shropshire,Salopian Brewery,United Kingdom,52.7069,-2.787
+683,Boise,Idaho,Sockeye,United States,43.6326,-116.275
+684,Leesburg,Virginia,Vintage 50 Restaurant and Brew Lounge,United States,39.1126,-77.5537
+685,Mexicali,Baja,Cucapa Brewing Company,Mexico,31.7291,-116.578
+686,De Pere,Wisconsin,Egan Brewing,United States,44.4489,-88.0604
+687,Dsseldorf,Nordrhein-Westfalen,Gatz Brauhaus,Germany,51.2249,6.7757000000000005
+688,Silver Spring,Maryland,Hook & Ladder Brewing Company,United States,38.9911,-77.0237
+689,Waltham,Massachusetts,Watch City Brewing,United States,42.3718,-71.2367
+690,Frankfurt am Main,Hessen,Binding Brauerei AG,Germany,50.0943,8.6913
+691,Patchogue,New York,Blue Point Brewing,United States,40.7591,-73.0215
+692,Boulder,Colorado,Boulder Beer Company,United States,40.0267,-105.248
+693,Baltimore,Maryland,Brewer's Art,United States,39.3028,-76.6164
+694,Emeryville,California,Emery Pub,United States,37.8313,-122.285
+695,Llanelli,Wales,Felinfoel Brewery Co Ltd,United Kingdom,51.6987,-4.1456
+696,San Francisco,California,Golden Gate Park Brewery,United States,37.7749,-122.419
+697,San Jose,California,Gordon Biersch Brewing,United States,37.3526,-121.893
+698,Brea,California,BJ's Restaurant and Brewery,United States,33.9132,-117.889
+699,Louisville,Kentucky,Brownings,United States,38.2554,-85.7441
+700,Hilo,Hawaii,Mehana Brewing,United States,19.706,-155.069
+701,Roselle Park,New Jersey,Climax Brewing Copmany,United States,40.6598,-74.283
+702,Billings,Montana,Yellowstone Valley Brewing,United States,45.7861,-108.498
+703,Mukilteo,Washington,Diamond Knot Brewery & Alehouse,United States,47.9485,-122.305
+704,Juneau,Alaska,Alaskan Brewing,United States,58.3573,-134.49
+705,Milton,Delaware,Dogfish Head Craft Brewery,United States,38.768299999999996,-75.3107
+706,Bitburg,Rheinland-Pfalz,Bitburger Brauerei,Germany,49.974,6.5227
+707,Fayetteville,North Carolina,Mash House Restaurant and Brewery,United States,35.0707,-78.9545
+708,Lochristi-Hijfte,Oost-Vlaanderen,De Proef Brouwerij,Belgium,51.1159,3.8158000000000003
+709,MontrÃ©al,Quebec,Dieu du Ciel,Canada,45.5228,-73.5928
+710,San Marcos,California,Port Brewing Company,United States,33.1406,-117.15
+711,Indianapolis,Indiana,Circle V Brewing,United States,39.7684,-86.158
+712,Holland,Michigan,Roffey Brewery,United States,42.7875,-86.1089
+713,Denver,Colorado,Denver ChopHouse and Brewery,United States,39.7553,-104.997
+714,Penticton,British Columbia,Tin Whistle Brewing,Canada,49.4944,-119.61
+715,Edwards,Colorado,Gore Range Brewery,United States,39.6441,-106.596
+716,San Diego,California,Karl Strauss Brewery Gardens - Sorrento Mesa,United States,32.8969,-117.201
+717,Louisville,Kentucky,"BBC Brewing Co., LLC",United States,38.2546,-85.7401
+718,Frederick,Maryland,Brimstone Brewing,United States,39.3628,-77.4265
+719,Saint Paul,Minnesota,Summit Brewing,United States,44.9139,-93.1396
+720,Cleveland,Ohio,Diamondback Brewery,United States,41.4995,-81.6954
+721,Madison,Wisconsin,BluCreek Brewing Company,United States,43.0598,-89.3085
+722,Akron,Ohio,Thirsty Dog Brewing,United States,41.0689,-81.5172
+723,Bamberg,Bayern,Brauerei Spezial,Germany,49.8942,10.8855
+724,Trowbridge,Wiltshire,Ushers of Trowbridge,United Kingdom,51.3201,-2.208
+726,Wrzburg,Bayern,Wrzburger Hofbru AG,Germany,49.792,9.915
+727,Las Vegas,Nevada,Chicago Brewing,United States,36.1476,-115.298
+728,Manhattan,Kansas,Little Apple Brewing,United States,39.1836,-96.5717
+729,Little River,Victoria,Australian Brewing Corporation,Australia,-37.968,144.525
+730,Boston,Massachusetts,New Century Brewing Company,United States,42.3587,-71.0574
+731,Picton,NSW,Scharer's Little Brewery,Australia,-34.1855,150.607
+732,Blacksburg,Virginia,Blacksburg Brewing Company,United States,37.23,-80.41
+733,Westerlo,Antwerp,Tongerlo,Belgium,51.0873,4.9178
+734,Oud-Turnhout,Antwerpen,Brewery Corsendonk,Belgium,51.3144,4.989
+735,Witney,Oxford,Wychwood Brewery,United Kingdom,51.7523,-1.2558
+736,Coronado,California,Coronado Brewing Company,United States,32.6976,-117.173
+737,Portland,Maine,Allagash Brewing,United States,43.7028,-70.3166
+738,St Michaels,Maryland,Eastern Shore Brewing,United States,38.7814,-76.2222
+739,Tannersville,Pennsylvania,Barley Creek Brewing,United States,41.0523,-75.3354
+740,Keystone,Colorado,Great Northern Tavern and Brewery,United States,39.6042,-105.948
+741,Ashland,Oregon,Caldera Brewing,United States,42.1844,-122.663
+742,Oshkosh,Wisconsin,Fox River Brewing #1,United States,44.0342,-88.5608
+743,Princeton by the Sea,California,Half Moon Bay Brewing,United States,37.4903,-122.435
+744,Unity,Wisconsin,Logjam Microbrewery,United States,44.8516,-90.3165
+745,Regensburg,Bayern,Klosterbrauerei Weltenburg,Germany,49.0144,12.075
+746,Pentlow,Essex,Nethergate Brewery Co Ltd,United Kingdom,52.081,0.6559
+747,Warren,Michigan,Kuhnhenn Brewing,United States,42.5278,-83.0472
+748,Florence,Wisconsin,Nicolet Brewing,United States,45.9222,-88.2518
+749,Saint Cloud,Minnesota,O'Hara's Brewpub and Restaurant,United States,45.5539,-94.1703
+750,Vista,California,Oggi's Pizza and Brewing - Vista,United States,33.2029,-117.255
+751,Killyleagh,County Down,Strangford Lough Brewing Company Ltd,Ireland,54.3906,-5.6548
+752,Chambly,Quebec,Unibroue,Canada,45.4416,-73.2595
+753,Tettnang,Baden-Wrttemberg,Brauerei & Gasthof zur Krone,Germany,47.6715,9.588799999999999
+754,Omaha,Nebraska,Upstream Brewing Old Market,United States,41.2553,-95.9306
+755,Raeren,Lige,Brennerei-Distillerie Radermacher,Belgium,50.6718,6.122
+756,Easton,Pennsylvania,Weyerbacher Brewing Company,United States,40.6732,-75.2249
+757,Carbondale,Illinois,Copper Dragon Brewing,United States,37.7273,-89.2168
+758,Egg Harbor,Wisconsin,Shipwrecked Brew Pub,United States,45.0495,-87.2802
+759,Chimay-Forges,Hainaut,Brasserie de l'Abbaye de Scourmont (Trappistes),Belgium,49.9842,4.3111
+760,Noblesville,Indiana,Barley Island Brewing,United States,40.0453,-86.0155
+761,Schwelm,Nordrhein-Westfalen,Brauerei Schwelm,Germany,51.2847,7.2936
+762,Cleveland,Ohio,Crooked River Brewing,United States,41.4995,-81.6954
+763,Herbertingen,Baden-Wrttemberg,Brauereigasthof Adler,Germany,48.0778,9.3996
+764,Kressbronn am Bodensee,Baden-Wrttemberg,Gasthaus-Brauerei Max & Moritz,Germany,47.6064,9.6061
+765,Oakville,Ontario,Cameron's Brewing,Canada,43.4745,-79.6775
+766,Cincinnati,Ohio,Devil Mountain Brewing,United States,39.1361,-84.5031
+767,Stevens Point,Wisconsin,Keg Microbrewery & Restaurant,United States,44.5236,-89.5746
+768,Halifax,Nova Scotia,Labatt / Keith's Brewery / Oland Breweries,Canada,44.6598,-63.5997
+769,Longmont,Colorado,Tabernash Brewing,United States,40.1672,-105.102
+770,Kiln,Mississippi,Lazy Magnolia Brewing Company,United States,30.3764,-89.4497
+771,Dallas,Wisconsin,Viking Brewing,United States,45.2585,-91.8181
+772,Itegem,Antwerpen,Microbrouwerij Achilles,Belgium,51.1028,4.7269
+773,Omaha,Nebraska,Aksarben Brewing (BOP),United States,41.2603,-96.0903
+774,Solana Beach,California,Pizza Port Brewing - Solana Beach,United States,32.9908,-117.272
+775,La Jolla,California,CJ's Brewery & Grill,United States,33.8575,-117.876
+776,Dallas,Texas,Routh Street Brewery and Grille,United States,32.789,-96.7989
+777,Tadcaster,North Yorkshire,Samuel Smith Old Brewery (Tadcaster),United Kingdom,53.8834,-1.2625
+778,Riverside,California,Jurupa Valley Brewing,United States,33.9533,-117.396
+779,Ponderay,Idaho,Laughing Dog Brewing,United States,48.3003,-116.538
+780,Manteo,North Carolina,Weeping Radish Restaurant and Brewery - Manteo,United States,35.8859,-75.6697
+781,Clackmannan,Scotland,Maclay and Co.,United Kingdom,56.1073,-3.7528
+782,Baltimore,Maryland,Wharf Rat,United States,39.2866,-76.6182
+783,Savannah,Georgia,Moon River Brewing Company,United States,32.081,-81.0915
+784,St Charles,Illinois,Pizza Beer,United States,41.9455,-88.4507
+785,Dubuque,Iowa,Dubuque Brewing and Bottling,United States,42.5006,-90.66460000000001
+786,Radeberg,Sachsen,Radeberger Exportbierbrauerei,Germany,51.1148,13.915
+787,Lincoln,Nebraska,Empyrean Brewing Company,United States,40.8155,-96.7105
+788,Rapid City,South Dakota,Firehouse Brewing,United States,44.0812,-103.227
+789,Raleigh,North Carolina,Greenshields Brewery and Pub,United States,35.7721,-78.6386
+790,McMinnville,Oregon,Golden Valley Brewery and Pub,United States,45.2104,-123.189
+791,Wilmington,Delaware,Iron Hill Brewery - Wilmingon,United States,39.745,-75.5561
+792,Madison,Wisconsin,Great Dane Pub and Brewing #1,United States,43.0745,-89.3802
+793,Conroe,Texas,Southern Star Brewing Company,United States,30.3489,-95.4427
+794,Milwaukee,Wisconsin,Lakefront Brewery,United States,43.0547,-87.9053
+795,Tampa,Florida,Tampa Bay Brewing,United States,27.9607,-82.4433
+796,Corvallis,Oregon,Oregon Trail Brewery,United States,44.5613,-123.261
+797,White Marsh,Maryland,White Marsh Brewing Company,United States,39.3722,-76.4638
+798,Castle Rock,Colorado,Rockyard Brewing,United States,39.4091,-104.87
+799,West Yellowstone,Montana,Wolf Pack Brewing,United States,44.6584,-111.1
+800,Honolulu,Hawaii,"Sam Choy's Breakfast, Lunch, Crab & Big Aloha Brewery",United States,21.3069,-157.858
+801,Frisco,Colorado,Backcountry Brewery,United States,39.5765,-106.094
+802,Jackson,Wyoming,Snake River Brewing,United States,43.4768,-110.765
+803,Pinedale,Wyoming,Bottom's Up Brewing,United States,42.8666,-109.866
+804,Bear,Delaware,Stewart's Brewing,United States,39.6318,-75.6628
+805,Hoegaarden,Vlaams Brabant,Brouwerij van Hoegaarden,Belgium,50.7778,4.8877
+806,Wauwatosa,Wisconsin,Wisconsin Brewing,United States,43.0495,-88.0076
+807,Millmont,Pennsylvania,Copper Kettle Brewery,United States,40.8942,-77.1971
+808,San Francisco,California,Big Bang Brewery (Closed),United States,37.7756,-122.398
+809,Green Bay,Wisconsin,Green Bay Brewing,United States,44.5189,-88.0196
+810,Buggenhout,Oost-Vlaanderen,Brouwerij Bosteels,Belgium,51.0138,4.2018
+811,New Brunswick,New Jersey,Harvest Moon Brewery / Cafe,United States,40.4962,-74.4441
+812,Belgrade,Montana,Lightning Boy Brewery,United States,45.7786,-111.179
+813,Seattle,Washington,Maritime Pacific Brewing,United States,47.6637,-122.377
+814,South Orange,New Jersey,Gaslight Brewery,United States,40.7465,-74.2594
+815,Simmerberg,Bayern,Simmerberg Brusttt und Taferne,Germany,47.5814,9.9191
+816,Princeton,New Jersey,Triumph Brewing of Princeton,United States,40.3507,-74.6583
+817,Strongsville,Ohio,Mad Crab Restaurant and Brewery,United States,41.3145,-81.8357
+818,New Orleans,Louisiana,Zea Rotisserie and Brewery,United States,29.9386,-90.076
+819,Santa Cruz,California,Santa Cruz Brewing,United States,36.9741,-122.031
+820,Faversham,Kent,Shepherd Neame,United Kingdom,51.3169,0.8921
+821,Downingtown,Pennsylvania,Victory Brewing,United States,40.0061,-75.6942
+822,Austin,Texas,(512) Brewing Company,United States,30.2234,-97.7697
+823,San Francisco,California,21st Amendment Brewery Cafe,United States,37.7825,-122.393
+824,Dinant,Namur,Abbaye de Leffe,Belgium,50.2606,4.9122
+825,Columbus,Ohio,Barley's #2 Smokehouse and Brewpub,United States,39.9745,-83.049
+826,Jauche,Brabant Wallon,Folx-les-Caves,Belgium,50.6818,4.9547
+827,Golden,Colorado,Golden City Brewery,United States,39.7546,-105.224
+828,Janesville,Wisconsin,Gray Brewing,United States,42.6793,-89.0498
+829,Hertford,Hertfordshire,McMullen & Sons,United Kingdom,51.7975,-0.0806
+830,Holland,Michigan,New Holland Brewing Company,United States,42.79,-86.1041
+831,Everett,Washington,Scuttlebutt Brewing,United States,47.9975,-122.214
+832,Portland,Maine,Shipyard Brewing - Portland,United States,43.6619,-70.2489
+833,Sioux Falls,South Dakota,Sioux Falls Brewing,United States,43.55,-96.7003
+834,Grand Island,Nebraska,Thunderhead Brewery #2,United States,40.9259,-98.3397
+835,LaSalle,Quebec,Brasal-Brasserie Allemande,Canada,45.4289,-73.6313
+836,Habay-Rulles,Luxembourg,Brasserie Artisanale de Rulles,Belgium,49.7185,5.5571
+837,Oudenaarde,Oost-Vlaanderen,Brasserie Clarysse,Belgium,50.8431,3.6077
+838,Watou,West-Vlaanderen,Brouwerij St. Bernardus,Belgium,50.8425,2.6362
+839,Hamburg,Hamburg,Holsten-Brauerei,Germany,53.5621,9.9451
+840,Omaha,Nebraska,Jobber's Canyon Restaurant & Brewery,United States,41.254,-95.9993
+841,Lake Havasu City,Arizona,Mudshark Brewing,United States,34.4686,-114.341
+842,Kirkland,Washington,Northwest Brewwrks,United States,47.6815,-122.209
+843,Chico,California,Sierra Nevada Brewing Co.,United States,39.7246,-121.816
+844,Bungay,Suffolk,St Peter's Brewery,United Kingdom,36.7282,-76.5836
+845,Leuven,Vlaams Brabant,Brouwerij Artois,Belgium,50.8853,4.7008
+846,Kailua-Kona,Hawaii,Kona Brewing,United States,19.642,-155.996
+847,Durham,North Carolina,Steve and Clark's Brew Pub and Sausage Co. #2,United States,35.994,-78.8986
+848,Bethesda,Maryland,Tuppers Hop Pocket Ale,United States,38.9735,-77.1272
+849,Bellingham,Washington,Boundary Bay Brewery and Bistro,United States,48.7475,-122.481
+850,Le Roeulx,Hainaut,Brouwerij St-Feuillien,Belgium,50.5018,4.1086
+851,Fresno,California,Bulldog Brewing,United States,36.7477,-119.772
+852,Denver,Colorado,Great Divide Brewing,United States,39.7539,-104.989
+853,Larkspur Landing,California,Marin Brewing,United States,37.9479,-122.511
+854,Webberville,Michigan,Michigan Brewing,United States,42.6616,-84.1946
+855,Pawleys Island,South Carolina,Quigleys,United States,33.4905,-79.116
+856,Placentia,California,The Bruery,United States,33.8614,-117.88
+857,Stoke Lacy,Hereford and Worcester,Wye Valley Brewery,United Kingdom,52.1496,-2.5507
+858,Belgrade,Montana,Big Hole Brewing,United States,45.7736,-111.172
+859,Missoula,Montana,Big Sky Brewing,United States,46.9223,-114.073
+860,New Orleans,Louisiana,Dixie Brewing,United States,29.9606,-90.0871
+861,Akron,Ohio,Hoppin Frog Brewery,United States,41.0247,-81.4676
+862,South Barrington,Illinois,Millrose Brewing,United States,42.0855,-88.1411
+863,London,London,Watney Brewery,United Kingdom,51.5002,-0.1262
+864,Grand Rapids,Michigan,Big Buck Brewery and Steakhouse #2,United States,42.9634,-85.6681
+865,Albuquerque,New Mexico,Blue Corn Caf and Brewery - Albuquerque,United States,35.0845,-106.651
+866,Keene,New Hampshire,Elm City Brewing Co,United States,42.9324,-72.2867
+867,Escanaba,Michigan,Hereford & Hops Restaurant and Brewpub #1,United States,45.7458,-87.056
+868,Camperdown,New South Wales,Malt Shovel Brewery,Australia,-33.8867,151.174
+869,Marquette,Michigan,Marquette Harbor Brewery and Restaurant,United States,46.5431,-87.3929
+870,Lawton,Michigan,Old Hat Brewery,United States,42.1682,-85.8497
+871,St. John,Virgin Islands,St John Brewers,United States,18.3368,-64.7281
+872,Adamstown,Pennsylvania,Stoudt's Brewery,United States,40.2369,-76.072
+873,Glasgow,Scotland,Tennent Caledonian Brewery,United Kingdom,55.8593,-4.2324
+874,Winnipeg,Manitoba,Agassiz Brewing,Canada,49.7652,-97.1539
+875,Henderson,Nevada,Barley's Casino & Brewing Company,United States,36.0721,-115.075
+876,Nashville,Tennessee,Blackstone Restaurant & Brewery,United States,36.152,-86.7989
+877,Chico,California,Butte Creek Brewing,United States,39.7245,-121.848
+878,Ponta Grossa,Paran,Cervejaria Kaiser Brasil,Brazil,-25.1688,-50.1298
+879,Lake In The Hills,Illinois,Govnor's Public House,United States,42.1779,-88.3377
+880,O'Fallon,Missouri,O'Fallon Brewery,United States,38.8058,-90.7532
+881,Pullach im Isartal,Bayern,Restaurant Isarbru,Germany,48.0708,11.5311
+882,Saint Louis,Missouri,Route 66 Brewery,United States,38.647,-90.225
+883,Dudley,West Midlands,Sarah Hughes Brewery,United Kingdom,52.5435,-2.1156
+884,Bamberg,Bayern,Bamberger Mahr's-Bru,Germany,49.8901,10.9067
+885,The Borders,Scotland,Broughton Ales,United Kingdom,55.6145,-3.4107
+886,Albuquerque,New Mexico,Chama River Brewing,United States,35.14,-106.6
+887,Woesten,West-Vlaanderen,De Struise Brouwers,Belgium,50.9229,2.7518000000000002
+888,Hood River,Oregon,Full Sail Brewing #1,United States,45.7103,-121.515
+889,Fort Lauderdale,Florida,Gordash Brewing Company,United States,26.0745,-80.1806
+890,Phoenix,Arizona,Leinenkugel's Ballyard Brewery,United States,33.4484,-112.074
+891,Tourpes,Hainaut,Brasserie Dupont,Belgium,50.5718,3.6508000000000003
+892,Ettal,Bayern,Ettaler Klosterbetriebe Abteilung Brauerei & Destillerie,Germany,47.569,11.0942
+893,Skegness,Lincoln,George Bateman and Son Ltd.,United Kingdom,53.1691,0.3169
+894,Waterloo,Ontario,Gold Crown Brewing,Canada,43.4676,-80.5231
+895,Reading,Pennsylvania,Legacy Brewing Co.,United States,40.3256,-75.9283
+896,Alpirsbach,Baden-Wrttemberg,Alpirsbacher Klosterbru,Germany,48.3457,8.4031
+897,Orlando,Florida,Beach Brewing,United States,28.5383,-81.3792
+898,Ecaussinnes,Hainaut,Brasserie d'Ecaussinnes,Belgium,50.5593,4.1365
+899,Lucan,Minnesota,Brauhaus Brew Hall,United States,44.4105,-95.4107
+900,Dubuque,Iowa,Bricktown Brewery,United States,42.4965,-90.6652
+901,Ann Arbor,Michigan,Grizzly Peak Brewing,United States,42.2805,-83.749
+902,Sonthofen,Bayern,Hirschbru Privatbrauerei Hss,Germany,47.5132,10.279
+903,Addison,Texas,Hoffbrau Steaks Brewery #1,United States,32.9618,-96.8292
+904,Hereford,Hereford and Worcester,HP Bulmer,United Kingdom,42.2626,-71.8023
+905,Madison,Wisconsin,JT Whitney's Brewpub and Eatery,United States,43.0519,-89.4737
+906,Stillwater,Minnesota,Lift Bridge Brewery,United States,45.0565,-92.8222
+907,Milwaukee,Wisconsin,Milwaukee Ale House,United States,43.0334,-87.9093
+908,Salt Lake City,Utah,Utah Brewers Cooperative,United States,40.7322,-111.9
+909,Westport,Massachusetts,Buzzards Bay Brewing Inc.,United States,41.5713,-71.0571
+910,Crested Butte,Colorado,Crested Butte Brewery &  Pub,United States,38.8698,-106.987
+911,Denver,Colorado,Dixon's Downtown Grill,United States,39.7541,-105.0
+912,Romsey,Hampshire,Hampshire Brewery,United Kingdom,50.9889,-1.4989
+913,Abingdon,Oxford,Morland and Co.,United Kingdom,51.6701,-1.2850000000000001
+914,Longmont,Colorado,Pumphouse Brewery & Restaurant,United States,40.1688,-105.102
+915,Denver,Colorado,Rock Bottom Restaurant & Brewery - Denver,United States,39.7472,-104.995
+916,Denmark,Wisconsin,Denmark Brewing,United States,44.3478,-87.8273
+917,La Jolla,California,La Jolla Brewing,United States,33.8575,-117.876
+918,Jacksonville,Florida,Margaritaville Brewing Company,United States,30.3617,-81.6966
+919,Lambertville,New Jersey,River Horse Brewing Company,United States,40.3688,-74.9477
+920,Selinsgrove,Pennsylvania,Selin's Grove Brewing Co.,United States,40.801,-76.8614
+921,Berwyn,Illinois,Weinkeller Brewery - Berwyn,United States,41.8506,-87.7937
+922,Appleton,Wisconsin,Appleton Brewing,United States,44.2619,-88.4154
+923,Mineral Point,Wisconsin,Brewery Creek Brewing,United States,42.8606,-90.1772
+924,Monterrey,Nuevo Leon,Cervecera Cuauhtmoc-Moctezuma,Mexico,25.7091,-100.314
+925,Cincinnati,Ohio,Listermann Brewing Company,United States,39.1456,-84.4741
+926,Anchorage,Alaska,Midnight Sun Brewing Co.,United States,61.1473,-149.844
+927,Hillburn,New York,Ramapo Valley Brewery,United States,41.1151,-74.147
+928,Buttenheim,Bayern,St. GeorgenBru Modschiedler KG,Germany,49.802,11.0324
+929,Las Vegas,Nevada,Tenaya Creek Restaurant and Brewery,United States,36.2154,-115.251
+930,Wayne,Pennsylvania,Valley Forge Brewing,United States,40.0439,-75.3881
+931,Milwaukee,Wisconsin,Water Street Brewery,United States,43.0448,-87.9114
+932,Ellezelles,Hainaut,Brasserie Ellezelloise,Belgium,50.7428,3.6875
+933,Pickering,North Yorkshire,Cropton Brewery,United Kingdom,54.2912,-0.8406
+934,San Diego,California,Del Mar Stuft Pizza and Brewing,United States,32.7153,-117.157
+935,Albuquerque,New Mexico,Dry Gulch Brewing,United States,35.0845,-106.651
+936,Erie,Pennsylvania,Erie Brewing Company,United States,42.1112,-80.113
+937,Dallas,Texas,Hoffbrau Steaks Brewery #2,United States,32.803,-96.7699
+938,Chicago,Illinois,Revolution Brewing LLC,United States,41.9234,-87.6982
+939,Cortland,Nebraska,Spilker Ales,United States,40.5058,-96.707
+940,Glendale,Wisconsin,Sprecher Brewing,United States,43.1,-87.9198
+941,Seattle,Washington,Thomas Kemper Brewing,United States,47.5924,-122.334
+942,Colorado Springs,Colorado,Trinity Brewing Company,United States,38.8967,-104.855
+943,Portland,Oregon,Widmer Brothers Brewing,United States,45.5408,-122.676
+944,Clear Lake,Wisconsin,William Kuether Brewing,United States,45.2519,-92.2713
+945,Anacortes,Washington,Anacortes Brewing,United States,48.5193,-122.613
+946,Andechs,Bayern,Andechser Klosterbrauerei,Germany,47.9775,11.185
+947,Portland,Oregon,Hopworks Urban Brewery,United States,45.4969,-122.635
+948,Dexter,Michigan,Jolly Pumpkin Artisan Ales,United States,42.3375,-83.8895
+949,Santa Barbara,California,Santa Barbara Brewing,United States,34.4166,-119.696
+950,Brugge,West-Vlaanderen,Brouwerij de Gouden Boom,Belgium,51.2094,3.2252
+951,Portland,Maine,D.L. Geary Brewing Company,United States,43.7076,-70.3149
+952,Petaluma,California,Dempsey's Restaurant & Brewery,United States,38.2362,-122.64
+953,Fenton,Missouri,Dirt Cheap Cigarettes and Beer,United States,38.5405,-90.4607
+954,Wilmington,North Carolina,Wilmington Brewing,United States,34.2257,-77.9447
+955,Omaha,Nebraska,Breckenridge BBQ of Omaha,United States,41.254,-95.9993
+956,San Diego,California,Callahan's Pub and Brewery,United States,32.9147,-117.146
+957,Columbia,Missouri,Flat Branch Pub & Brewing,United States,38.95,-92.3323
+958,Enschede,Overijssel,Grolsche Bierbrouwerij,Netherlands,52.2081,6.8163
+959,Karlsruhe,Baden-Wrttemberg,Hoepfner Privatbrauerei,Germany,49.0125,8.4264
+960,Petaluma,California,Lagunitas Brewing Company,United States,38.2724,-122.662
+961,Chilton,Wisconsin,Rowland's Calumet Brewery,United States,44.0291,-88.1629
+962,Bakersfield,California,Bootleggers Steakhouse and Brewery,United States,35.3733,-119.019
+963,Buggenhout,Oost-Vlaanderen,Brouwerij De Landtsheer,Belgium,51.0228,4.1572
+964,New York,New York,Chelsea Brewing Company,United States,40.7457,-74.0086
+965,Seattle,Washington,Elysian Brewing - TangleTown,United States,47.6688,-122.334
+966,Saint Paul,Minnesota,Great Waters Brewing Company,United States,44.9467,-93.097
+967,Sydney,New South Wales,Lion Nathan Australia  Hunter Street,Australia,-33.8687,151.217
+968,Burnley,Lancashire,Moorhouse's Brewery (Burnley),United Kingdom,53.7864,-2.2694
+969,Steenhuffel,Brabant,Palm Breweries,Belgium,50.9953,4.2835
+970,Kln,Nordrhein-Westfalen,Privatbrauerei Gaffel,Germany,50.9465,6.9563
+971,Anchorage,Alaska,Railway Brewing,United States,61.2181,-149.9
+972,Guelph,Ontario,Sleeman Brewing & Malting,Canada,43.487,-80.2068
+973,Benton Harbor,Michigan,The Livery,United States,42.1185,-86.4537
+974,Winona,Minnesota,Backwater Brewing,United States,44.0486,-91.6774
+975,Norman,Oklahoma,Coach's Norman,United States,35.2205,-97.4439
+976,Greenville,North Carolina,Ham's Restaurant and Brewhouse,United States,35.6083,-77.3732
+977,Denver,Colorado,Heavenly Daze Brewery and Grill,United States,39.7392,-104.985
+978,Montreal,Quebec,Le Cheval Blanc,Canada,45.5181,-73.5642
+979,Lich,Hessen,Licher Privatbrauerei,Germany,50.5208,8.8166
+980,Waterbury,Vermont,The Alchemist,United States,44.3372,-72.756
+981,Burlington,Vermont,Vermont Pub & Brewery,United States,44.4773,-73.2144
+982,Battle Creek,Michigan,Arcadia Brewing,United States,42.322,-85.1851
+983,Concord,California,EJ Phair Brewing Company and Alehouse,United States,37.978,-122.034
+984,Melbourne,Florida,Florida Beer Company,United States,28.0707,-80.6012
+985,Walla Walla,Washington,Mill Creek Brewpub,United States,46.0697,-118.336
+986,Tempe,Arizona,Rio Salado Brewing,United States,33.4148,-111.909
+987,Bad Schussenried,Baden-Wrttemberg,Schussenrieder Erlebnisbrauerei,Germany,48.004,9.6584
+988,Olympia,Washington,Fish Brewing Company & Fish Tail Brewpub,United States,47.0437,-122.897
+989,Buffalo,New York,Flying Bison Brewing,United States,42.9561,-78.8966
+990,Evergem,Oost-Vlaanderen,ICOBES b.v.b.a.,Belgium,51.1007,3.6934
+991,Bamberg,Bayern,Keesmann Bru,Germany,49.8904,10.9056
+992,Horsham,West Sussex,King and Barnes,United Kingdom,51.0638,-0.327
+993,Lyons,Colorado,Oskar Blues Grill and Brew,United States,40.2246,-105.268
+994,South Stoke,Oxford,Ridgeway Brewing,United Kingdom,51.5462,-1.1355
+995,Eden Prairie,Minnesota,Water Tower Brewing,United States,44.8652,-93.4095
+996,Arena,Wisconsin,Lake Louie Brewing,United States,43.1706,-89.9324
+997,Mammoth Lakes,California,Mammoth Brewing,United States,37.6484,-118.983
+998,Ukiah,California,Mendocino Brewing - Ukiah,United States,39.1326,-123.201
+999,Pacific Beach,California,Pacific Beach Brewhouse,United States,32.7978,-117.24
+1000,Seattle,Washington,Pacific Rim Brewing,United States,47.5143,-122.353
+1001,Clinton,Iowa,Upper Mississippi Brewing,United States,41.8445,-90.1887
+1002,Rhinelander,Wisconsin,Brown Street Brewery,United States,45.638,-89.4127
+1003,Brugge,West-Vlaanderen,De Halve Maan,Belgium,51.2026,3.2242
+1004,Tempe,Arizona,Four Peaks Brewing,United States,33.4194,-111.916
+1005,Saint Cloud,Minnesota,Granite City Food & Brewery - Saint Cloud,United States,45.5498,-94.2067
+1006,Wausau,Wisconsin,Hereford & Hops Steakhouse and Brewpub #3,United States,44.9518,-89.6657
+1007,Framingham,Massachusetts,John Harvard's Brew House - Framingham,United States,42.3037,-71.3966
+1008,Morrisville,Vermont,Kross Brewing,United States,44.5617,-72.5984
+1009,Kassel,Hessen,Martini-Brauerei,Germany,51.3175,9.4793
+1010,Wisconsin Dells,Wisconsin,Moosejaw Pizza & Dells Brewing Company,United States,43.5907,-89.7939
+1011,Fortworth,Texas,Rahr & Sons Brewing Company,United States,32.7366,-97.3274
+1012,Tucson,Arizona,Thunder Canyon Brewery,United States,32.3407,-111.015
+1013,Gilroy,California,Coast Range Brewing,United States,37.0013,-121.566
+1014,Isle of Skye,Scotland,Isle of Skye Brewing Company,United Kingdom,56.4907,-4.2026
+1015,Myrtle Beach,South Carolina,Liberty Steakhouse and Brewery,United States,33.7187,-78.8831
+1016,"Lahaina, Maui",Hawaii,Maui Brewing Co.,United States,20.9721,-156.677
+1017,Boston,Massachusetts,Boston Beer Company,United States,42.3144,-71.1034
+1018,Gloucester,Massachusetts,Cape Ann Brewing,United States,42.6102,-70.6664
+1019,Regensburg,Bayern,Frstliche Brauerei Thurn Und Taxis Regensburg,Germany,49.0156,12.0913
+1020,Sheboygan,Wisconsin,Hops Haven Brew Haus,United States,43.7594,-87.7228
+1022,Lexington,Kentucky,Kentucky Hemp Beer Company,United States,38.0317,-84.4951
+1023,Ashland,Oregon,Standing Stone Brewing Company,United States,42.1976,-122.715
+1024,Escondido,California,Stone Brewing Co.,United States,33.1157,-117.12
+1025,Appleton,Wisconsin,Stone Cellar Brewpub & Restaurant,United States,44.2536,-88.4037
+1026,Portland,Maine,Stone Coast Brewing - Portland,United States,43.71,-70.305
+1027,Providence,Rhode Island,The Narragansett Brewing Company,United States,41.819,-71.4097
+1028,Wailuku,Hawaii,Trade Winds Brewing,United States,20.8911,-156.505
+1029,Williamsport,Pennsylvania,Abbey Wright Brewing/Valley Inn,United States,41.2225,-77.0369
+1030,Denver,Colorado,Flying Dog Brewery,United States,39.7582,-104.99
+1031,Victor,Idaho,Grand Teton Brewing #2,United States,43.5984,-111.108
+1032,Bamberg,Bayern,Klosterbru Bamberg,Germany,49.8891,10.887
+1033,Middlebury,Vermont,Otter Creek Brewing & Wolaver's Organic Ales,United States,44.0197,-73.1693
+1034,Tarpon Springs,Florida,Saint Somewhere Brewing Company,United States,28.1646,-82.7717
+1035,Freetown,Sierra Leone,Sierra Leone Brewery,Sierra Leone,8.4841,-13.2287
+1036,Fawn Grove,Pennsylvania,South County Brewing Co.,United States,39.7323,-76.4496
+1037,Toms River,New Jersey,Basil T's Brew Pub and Italian Grill,United States,39.9767,-74.1829
+1038,Bamberg,Bayern,Brauerei Fssla,Germany,49.8942,10.8855
+1039,Ertvelde,Oost-Vlaanderen,Brouwerij Van Steenberge,Belgium,51.1766,3.7462
+1040,Durango,Colorado,Carver Brewing Co.,United States,37.2748,-107.88
+1041,Estes Park,Colorado,Estes Park Brewery,United States,40.3707,-105.526
+1042,Madison,Wisconsin,Fauerbach Brewing Company,United States,43.0844,-89.4761
+1043,Iowa City,Iowa,Fitzpatrick's Brewing,United States,41.6611,-91.5302
+1044,Cinderford,Gloucestershire,Freeminer Brewery,United Kingdom,51.8325,-2.5116
+1045,Seattle,Washington,Pike Pub and Brewery,United States,47.6081,-122.34
+1046,Antioch,California,Schooner's Grille & Brewery,United States,37.9669,-121.783
+1048,Cannon Beach,Oregon,Bill's Tavern & Brewhouse,United States,45.8981,-123.961
+1049,Kerkom,Limburg,Brouwerij Kerkom,Belgium,50.7763,5.166
+1050,New Orleans,Louisiana,Crescent City Brewhouse,United States,29.9558,-90.0641
+1051,Hannover,Niedersachsen,Gilde Brauerei,Germany,52.3544,9.7532
+1052,Knigseggwald,Baden-Wrttemberg,Knigsegger WalderBru,Germany,47.9262,9.4204
+1053,Dillon,Colorado,Pug Ryan's Steakhouse and Brewery,United States,39.6282,-106.047
+1054,Vancouver,British Columbia,Yaletown Brewing,Canada,49.2755,-123.121
+1055,San Diego,California,AleSmith Brewing,United States,32.892,-117.144
+1056,Meschede,Nordrhein-Westfalen,Brauerei C. & A. Veltins GmbH & Co.,Germany,51.3055,8.1259
+1057,Mount Joy,Pennsylvania,Bube's Brewery,United States,40.1119,-76.5031
+1058,Flossmoor,Illinois,Flossmoor Station Brewery,United States,41.5433,-87.6789
+1059,Fort Collins,Colorado,HC Berger Brewing,United States,40.5853,-105.084
+1060,Mequon,Wisconsin,Mambo Beer,United States,43.2167,-87.924
+1061,San Antonio,Texas,Pete's Brewing,United States,29.5761,-98.4772
+1062,Prescott,Arizona,Prescott Brewing Company,United States,34.542,-112.47
+1063,Bangor,Maine,Sea Dog Brewing Company,United States,44.7974,-68.77
+1064,Burlington,Vermont,Switchback Brewing Co,United States,43.3906,-79.8049
+1065,Bloomfield,Connecticut,Thomas Hooker Brewing,United States,41.8087,-72.7108
+1066,Lake Barrington,Illinois,Wild Onion Brewing,United States,42.2108,-88.1652
+1067,Norwich,Norfolk,Woodforde's Norfolk Ales,United Kingdom,52.6842,1.449
+1068,Pottsville,Pennsylvania,Yuengling & Son Brewing,United States,40.7,-76.1747
+1069,Freising,Bayern,Bayerische Staatsbrauerei Weihenstephan,Germany,48.3952,11.7288
+1070,Silly,Hainaut,Brasserie de Silly,Belgium,50.6493,3.9242
+1072,Flagstaff,Arizona,Flagstaff Brewing,United States,35.1973,-111.648
+1073,Annapolis,Maryland,Fordham Brewing,United States,38.9773,-76.4948
+1074,Boston,Massachusetts,Harpoon Brewery - Boston,United States,42.3465,-71.0338
+1075,Lahaska,Pennsylvania,Porterhouse Restaurant and Brewpub,United States,40.3341,-75.012
+1076,Barre,Vermont,Stonecutters Brewhouse,United States,44.1972,-72.5019
+1077,Nrnberg,Bayern,Tucher Bru,Germany,49.4643,11.0847
+1078,Boston,Massachusetts,Boston Beer Works,United States,42.347,-71.0989
+1079,Harltepool,Cleveland,Camerons Brewery Company,United Kingdom,41.4995,-81.6954
+1080,Little Rock,Arkansas,Diamond Bear Brewing Co.,United States,34.7473,-92.2839
+1081,Tulsa,Oklahoma,Marshall Brewing Company,United States,36.152,-95.9647
+1082,Sedona,Arizona,Oak Creek Brewery,United States,34.8661,-111.796
+1083,Orkney,Scotland,Orkney Brewery,United Kingdom,59.0697,-3.3135
+1084,Dsseldorf,Nordrhein-Westfalen,Privatbrauerei Frankenheim,Germany,51.2292,6.7925
+1085,Englewood,Colorado,Rock Bottom Restaurant & Brewery - South Denver,United States,39.5678,-104.874
+1086,Santa Rosa,California,Third Street Ale Works,United States,38.4398,-122.713
+1087,Atlanta,Georgia,Atlanta Brewing Company,United States,33.818,-84.4353
+1088,Cincinnati,Ohio,Hudepohl-Schoenling Brewing,United States,39.2651,-84.3799
+1089,Wilmington,Delaware,John Harvard's Brewhouse - Wilmington,United States,39.7458,-75.5467
+1090,Bamberg,Bayern,Kaiserdom Privatbrauerei Bamberg,Germany,49.9043,10.8524
+1091,Kulmbach,Bayern,Kulmbacher Mnchshof Bru,Germany,50.1077,11.453
+1092,Ames,Iowa,Olde Main Brewing,United States,42.0248,-93.6147
+1093,Scottsdale,Arizona,Pinnacle Peak Patio Steakhouse & Microbrewery,United States,33.7268,-111.853
+1094,Portland,Maine,Pugsley Brewing LLC,United States,43.6615,-70.2553
+1095,Frankenmuth,Michigan,Sullivan's Black Forest Brew Haus & Grill,United States,43.3152,-83.7314
+1096,Hastings,Michigan,Walldorff Brew Pub,United States,42.6488,-85.2875
+1097,Luton,Bedford,Whitbread Beer Company,United Kingdom,52.1357,-0.468
+1098,Lincolnville,Maine,Andrew's Brewing,United States,44.3516,-69.1401
+1099,Colorado Springs,Colorado,Blicks Brewing,United States,38.8339,-104.821
+1100,Mountain View,California,Brew Makers,United States,37.3861,-122.084
+1101,Delafield,Wisconsin,Delafield Brewhaus,United States,43.0481,-88.3553
+1102,Reckendorf,Bayern,Schlobrauerei Reckendorf,Germany,50.0224,10.83
+1103,Stevenson,Washington,Walking Man Brewery,United States,45.6922,-121.885
+1104,New Ulm,Minnesota,August Schell Brewing,United States,44.2896,-94.449
+1105,Wevelgem,West-Vlaanderen,Brouwerij De Ranke,Belgium,50.8105,3.1857
+1106,Edinburgh,Scotland,Caledonian Brewing,United Kingdom,55.9358,-3.2297000000000002
+1107,Gateshead,Tyne and Wear,Federation Brewery,United Kingdom,54.9548,-1.6576
+1108,Seattle,Washington,Hale's Ales #3,United States,47.6592,-122.366
+1109,LaConner,Washington,LaConner Brewing,United States,48.3917,-122.495
+1110,Bernalillo,New Mexico,Milagro Brewery and Grill,United States,35.3,-106.551
+1111,Boulder,Colorado,Mountain Sun Pub & Brewery,United States,40.019,-105.275
+1112,Peterborough,Cambridge,Oakham Ales,United Kingdom,52.5758,-0.248
+1113,Austin,Texas,Old City Brewing,United States,30.2767,-97.7463
+1114,South Burlington,Vermont,Orlio Organic,United States,44.4284,-73.2131
+1115,Lakewood,New York,Southern Tier Brewing Co,United States,42.1008,-79.3357
+1116,Vancouver,British Columbia,Storm Brewing,Canada,49.2821,-123.07
+1117,San Francisco,California,Anchor Brewing,United States,37.7635,-122.401
+1118,Louisville,Kentucky,"Bluegrass Brewing Company, Inc.",United States,38.253,-85.654
+1119,Aying,Bayern,Brauerei Aying Franz Inselkammer KG,Germany,47.9706,11.7808
+1120,Denver,Colorado,Breckenridge Brewery,United States,39.7236,-105.001
+1121,Blumenau,Santa Catarina,Cervejaria Sudbrack,Brazil,-26.8914,-49.1223
+1122,Warren,Michigan,Dragonmead Microbrewery,United States,42.493,-82.9753
+1123,La Crosse,Wisconsin,G. Heileman Brewing,United States,43.8014,-91.2396
+1124,Sparks,Nevada,Great Basin Brewing Company,United States,39.5349,-119.754
+1125,Chicago,Illinois,Piece,United States,41.9104,-87.6761
+1126,Brooklyn Center,Minnesota,Surly Brewing,United States,45.0429,-93.3246
+1127,Tampa,Florida,Cigar City Brewing,United States,27.9587,-82.5093
+1128,Boston,Massachusetts,Commonwealth Brewing #1,United States,42.3584,-71.0598
+1129,Walnut Creek,California,Faultline Brewing #2,United States,37.8855,-122.033
+1130,Flensburg,Schleswig-Holstein,Flensburger Brauerei,Germany,54.779,9.4355
+1131,Anchorage,Alaska,Glacier Brewhouse,United States,61.2179,-149.896
+1132,Fitchburg,Wisconsin,Great Dane Pub and Brewing #2,United States,43.0177,-89.4232
+1133,Erding,Bayern,Privatbrauerei Erdinger Weissbru,Germany,48.3153,11.8911
+1134,Saint Charles,Missouri,Trailhead Brewing Company,United States,38.7745,-90.484
+1135,Berlin,Berlin,Berliner-Kindl-Schultheiss-Brauerei,Germany,52.5234,13.4114
+1136,Falmignoul,Namur,Brasserie La Caracole,Belgium,50.2024,4.8914
+1137,Colorado Springs,Colorado,Bristol Brewing,United States,38.8097,-104.826
+1138,Saskatoon,Saskatchewan,Canadian Brewery,Canada,52.1344,-106.648
+1139,Wernigerode,Sachsen-Anhalt,Hasserder Brauerei,Germany,51.8439,10.7533
+1140,Hook Norton,Oxford,Hook Norton Brewery,United Kingdom,51.9966,-1.4922
+1141,Albuquerque,New Mexico,Marble Brewery,United States,35.0928,-106.647
+1142,Novato,California,moylans Brewing company,United States,38.1074,-122.57
+1143,Dover,Delaware,Old Dominion Brewing Co.,United States,39.154,-75.4884
+1144,Ursel,Oost-Vlaanderen,Brouwerij The Musketiers,Belgium,51.1287,3.4785
+1145,Denver,Colorado,Bull & Bush Pub & Brewery,United States,39.705,-104.936
+1146,Kelowna,British Columbia,Granville Island Brewing,Canada,49.8945,-119.488
+1147,Longmont,Colorado,Left Hand Brewing Company,United States,40.1587,-105.113
+1148,Blue Lake,California,Mad River Brewing Company,United States,40.8786,-123.992
+1149,Libertyville,Illinois,Mickey Finn's Brewery,United States,42.2872,-87.9538
+1150,Baltimore,Maryland,Stillwater Artisanal Ales,United States,39.2904,-76.6122
+1151,Kearney,Nebraska,Thunderhead Brewery,United States,40.6966,-99.0815
+1152,San Jose,California,Tied House Cafe & Brewery - San Jose,United States,37.3362,-121.894
+1153,Utica,New York,F.X. Matt Brewing,United States,43.1045,-75.2452
+1154,Dallas,Texas,Main Street Brewing,United States,32.803,-96.7699
+1155,Minneapolis,Minnesota,Minneapolis Town Hall Brewery,United States,44.9732,-93.2479
+1156,Korschenbroich,Nordrhein-Westfalen,Privatbrauerei Bolten,Germany,51.1833,6.4993
+1157,Baroda,Michigan,The Round Barn Winery & Brewery,United States,41.9211,-86.4583
+1158,Mnchen,Bayern,Hacker-Pschorr Bru,Germany,48.1391,11.5802
+1159,Heimenkirch,Bayern,Meckatzer Lwenbru,Germany,47.6308,9.8889
+1160,Kalamazoo,Michigan,Olde Peninsula Brewpub and Restaurant,United States,42.2936,-85.5778
+1161,Bamberg,Bayern,Privater Brauereigasthof Greifenklau,Germany,49.8851,10.8823
+1162,Chicago,Illinois,River West Brewing,United States,41.85,-87.6501
+1163,Saint Helena,California,Silverado Brewing,United States,38.5243,-122.497
+1164,Adelaide,South Australia,South Australian Brewing,Australia,-34.9111,138.575
+1165,Manhasset,New York,Two Dogs Beverage Company,United States,40.7964,-73.699
